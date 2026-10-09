@@ -4,7 +4,7 @@ Analysis code and derived data for
 
 > Kawaguchi Y.W., Kono M., Isoda M., Kawade K., Tabeta H., Sasaki R., Oikawa A., Hirai M.Y.,
 > Josephine E., Valerie L., Katayama N.  *Shifts in high-light acclimation strategies associated
-> with molecular evolutionary rates in duckweeds.*  (submitted)
+> with molecular evolutionary rates in duckweeds.* 
 
 Each numbered directory corresponds to one results section / figure and is self-contained:
 `README.md` (figure → script → output map), numbered scripts in execution order, `data/`
