@@ -1,5 +1,7 @@
 # Shifts in high-light acclimation strategies associated with molecular evolutionary rates in duckweeds
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23253799.svg)](https://doi.org/10.5281/zenodo.23253799)
+
 Analysis code and derived data for
 
 > Kawaguchi Y.W., Kono M., Isoda M., Kawade K., Tabeta H., Sasaki R., Oikawa A., Hirai M.Y.,
@@ -61,5 +63,6 @@ Code: MIT (`LICENSE`).  Data tables and figures in `data/` and `output/`: CC BY 
 
 ## Citation
 
-See `CITATION.cff`.  Archived versions of this repository carry a Zenodo DOI (to be added
-on release).
+See `CITATION.cff`.  Archived versions of this repository are available at Zenodo:
+concept DOI [10.5281/zenodo.23253799](https://doi.org/10.5281/zenodo.23253799) (always resolves to the latest version);
+v1.0.0 (initial submission) [10.5281/zenodo.23253800](https://doi.org/10.5281/zenodo.23253800).

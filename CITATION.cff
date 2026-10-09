@@ -9,6 +9,14 @@ authors:
     given-names: Natsu
     affiliation: The University of Tokyo
 license: MIT
+doi: 10.5281/zenodo.23253799
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23253799
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23253800
+    description: "v1.0.0, deposited at initial submission"
 repository-code: "https://github.com/YawakoK/Duckweed_molevol"
 preferred-citation:
   type: article
