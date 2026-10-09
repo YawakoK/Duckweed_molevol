@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article."
+title: "Analysis code for: Shifts in high-light acclimation strategies associated with molecular evolutionary rates in duckweeds"
+authors:
+  - family-names: Kawaguchi
+    given-names: Yawako W.
+    affiliation: National Institute of Genetics
+  - family-names: Katayama
+    given-names: Natsu
+    affiliation: The University of Tokyo
+license: MIT
+repository-code: "https://github.com/YawakoK/Duckweed_molevol"
+preferred-citation:
+  type: article
+  title: "Shifts in high-light acclimation strategies associated with molecular evolutionary rates in duckweeds"
+  authors:
+    - family-names: Kawaguchi
+      given-names: Yawako W.
+    - family-names: Kono
+      given-names: Masaru
+    - family-names: Isoda
+      given-names: Minako
+    - family-names: Kawade
+      given-names: Kensuke
+    - family-names: Tabeta
+      given-names: Hiromitsu
+    - family-names: Sasaki
+      given-names: Ryosuke
+    - family-names: Oikawa
+      given-names: Akira
+    - family-names: Hirai
+      given-names: Masami Y.
+    - family-names: Josephine
+      given-names: Evelina
+    - family-names: Valerie
+      given-names: Levina
+    - family-names: Katayama
+      given-names: Natsu
+  year: 2026
+  journal: "submitted"

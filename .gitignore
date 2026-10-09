@@ -1,0 +1,16 @@
+# heavy intermediates produced by the HPC steps (archived on Zenodo instead)
+TreeEachOG/
+absrel/
+species_tree/
+orthofinder3_output/
+sambam_*/
+*.sam
+*.bam
+# R / editor
+.Rhistory
+.RData
+.Rproj.user/
+# Synology
+@eaDir/
+*@SynoEAStream
+Thumbs.db

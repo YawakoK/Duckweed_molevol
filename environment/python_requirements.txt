@@ -1,0 +1,7 @@
+# Python 3.11.5
+numpy==1.24.3
+matplotlib==3.7.2
+# 04_growth_rate steps 01-02 (optional image segmentation; see 04_growth_rate/README.md)
+opencv-python>=4.7
+pandas
+pillow

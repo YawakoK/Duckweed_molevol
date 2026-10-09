@@ -1,0 +1,9 @@
+step,n_records,n_species
+raw GBIF records,753829,NA
+species-level identification and coordinates present,714270,NA
+assigned to an accepted species,710642,29
+valid coordinate range,710642,29
+coordinate uncertainty <= 10 km or missing,703837,29
+"not at (0, 0)",703743,29
+species x coordinate duplicates removed,443314,29
+0.5-degree spatial thinning,18227,29

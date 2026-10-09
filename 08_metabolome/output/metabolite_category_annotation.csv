@@ -1,0 +1,1731 @@
+Platform,Metabolite,MetLabel,Category,SubCategory
+CE-TOF MS,T-001_Ala,Ala,Other,NA
+CE-TOF MS,T-002_Arg,Arg,Other,NA
+CE-TOF MS,T-003_Asn,Asn,Other,NA
+CE-TOF MS,T-004_Asp,Asp,Other,NA
+CE-TOF MS,T-005_Cys,Cys,Other,NA
+CE-TOF MS,T-006_Glu,Glu,Other,NA
+CE-TOF MS,T-007_Gln,Gln,Other,NA
+CE-TOF MS,T-008_Gly,Gly,Amino acids / Peptides,NA
+CE-TOF MS,T-009_His,His,Other,NA
+CE-TOF MS,T-010_Ile,Ile,Other,NA
+CE-TOF MS,T-011_Leu,Leu,Other,NA
+CE-TOF MS,T-012_Lys,Lys,Other,NA
+CE-TOF MS,T-013_Met,Met,Other,NA
+CE-TOF MS,T-014_Phe,Phe,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-015_Pro,Pro,Other,NA
+CE-TOF MS,T-016_Ser,Ser,Amino acids / Peptides,NA
+CE-TOF MS,T-017_Thr,Thr,Other,NA
+CE-TOF MS,T-018_Trp,Trp,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-019_Tyr,Tyr,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-020_Val,Val,Other,NA
+CE-TOF MS,T-021_G6P;T-022_F6P;T-206_M6P *,G6P/T-022_F6P/T-206_M6P,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-025_DHAP,DHAP,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-027_3PG;T-028_2PG *,3PG/T-028_2PG,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-029_PEP,PEP,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-030_Pyruvate,Pyruvate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-033_Citrate,Citrate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-034_cis-Aconitate;T-162_trans-Aconitate *,cis-Aconitate/T-162_trans-Aconitate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-035_Isocitrate,Isocitrate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-038_Succinate,Succinate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-039_Fumarate,Fumarate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-040_Malate,Malate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-041_6P-gluconate,6P-gluconate,Other,NA
+CE-TOF MS,T-042_Ribu5P;T-043_Rib5P;T-354_X5P *,Ribu5P/T-043_Rib5P/T-354_X5P,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-045_Adenine,Adenine,Other,NA
+CE-TOF MS,T-046_Adenosine,Adenosine,Other,NA
+CE-TOF MS,T-047_AMP,AMP,Energy / Redox,NA
+CE-TOF MS,T-048+_ADP[M-2H],ADP,Energy / Redox,NA
+CE-TOF MS,T-048_ADP,ADP,Energy / Redox,NA
+CE-TOF MS,T-049+_ATP[M-2H],ATP,Energy / Redox,NA
+CE-TOF MS,T-050_Cytidine,Cytidine,Other,NA
+CE-TOF MS,T-051_CMP,CMP,Other,NA
+CE-TOF MS,T-054_cCMP,cCMP,Other,NA
+CE-TOF MS,T-055_Guanine,Guanine,Other,NA
+CE-TOF MS,T-056_Guanosine,Guanosine,Other,NA
+CE-TOF MS,T-060_NAD,NAD,Energy / Redox,NA
+CE-TOF MS,T-062_NADP,NADP,Energy / Redox,NA
+CE-TOF MS,T-065_GSH,GSH,AsA/GSH,NA
+CE-TOF MS,T-073_GalN;T-074_GlcN *,GalN/T-074_GlcN,Other,NA
+CE-TOF MS,T-077_GlcNAc;T-556_GalNAc *,GlcNAc/T-556_GalNAc,Other,NA
+CE-TOF MS,T-079_b-Ala,b-Ala,Other,NA
+CE-TOF MS,T-080_GABA,GABA,Other,NA
+CE-TOF MS,T-083_Citrulline,Citrulline,Other,NA
+CE-TOF MS,T-085_HomoSer,HomoSer,Amino acids / Peptides,NA
+CE-TOF MS,T-086_HydroxyPro,HydroxyPro,Other,NA
+CE-TOF MS,T-087_Ornithine,Ornithine,Other,NA
+CE-TOF MS,T-088_Putrescine,Putrescine,Polyamines,NA
+CE-TOF MS,T-089_Spermidine,Spermidine,Polyamines,NA
+CE-TOF MS,T-090_Tyramine,Tyramine,Other,NA
+CE-TOF MS,T-091_G1P;T-205_Gal1P;T-505_Inositol1P;T-508_Man1P *,G1P/T-205_Gal1P/T-505_Inositol1P/T-508_Man1P,Other,NA
+CE-TOF MS,T-092_Gly3P,Gly3P,Other,NA
+CE-TOF MS,T-095_GlcN6P,GlcN6P,Other,NA
+CE-TOF MS,T-096_Gluconate,Gluconate,Other,NA
+CE-TOF MS,T-099_Lactate,Lactate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-100_Galacturonate;T-183_Glucuronate *,Galacturonate/T-183_Glucuronate,Other,NA
+CE-TOF MS,T-106_Shikimate,Shikimate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-111_Quinate,Quinate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-114_2-Hydroxyisobutyrate;T-470_2-Hydroxybutyrate *,2-Hydroxyisobutyrate/T-470_2-Hydroxybutyrate,Other,NA
+CE-TOF MS,T-116_Acrylate,Acrylate,Other,NA
+CE-TOF MS,T-118_Glutarate,Glutarate,Other,NA
+CE-TOF MS,T-119_Malonate,Malonate,Other,NA
+CE-TOF MS,T-122_Phenylpyruvate,Phenylpyruvate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-128_Tryptamine,Tryptamine,Other,NA
+CE-TOF MS,T-130_Agmatine,Agmatine,Polyamines,NA
+CE-TOF MS,T-132_Betaine,Betaine,Other,NA
+CE-TOF MS,T-134_SAM[M]+,SAM,Other,NA
+CE-TOF MS,T-135_Pyridoxamine,Pyridoxamine,Other,NA
+CE-TOF MS,T-137_UDP-Glc;T-198_UDP-Gal *,UDP-Glc/T-198_UDP-Gal,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-138_Chlorogenate,Chlorogenate,Other,NA
+CE-TOF MS,T-139_Pantothenate,Pantothenate,Other,NA
+CE-TOF MS,T-141_Nicotinate,Nicotinate,Other,NA
+CE-TOF MS,T-142_Cytosine,Cytosine,Other,NA
+CE-TOF MS,T-150_UMP,UMP,Other,NA
+CE-TOF MS,T-154_IAA,IAA,Other,NA
+CE-TOF MS,"T-159_Mevalonolactone[Scission, +H2O];T-640_Mevalonate *","Mevalonolactone[Scission, +H2O]/T-640_Mevalonate",Other,NA
+CE-TOF MS,T-161_Citramalate,Citramalate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,"T-164_2,6-Diaminopimelate","2,6-Diaminopimelate",Other,NA
+CE-TOF MS,T-165_O-AcetylSer,O-AcetylSer,Amino acids / Peptides,NA
+CE-TOF MS,T-168_Cystathionine,Cystathionine,Other,NA
+CE-TOF MS,T-174_Deoxycytidine,Deoxycytidine,Other,NA
+CE-TOF MS,T-175_Deoxyguanosine,Deoxyguanosine,Other,NA
+CE-TOF MS,T-184_Glycerate,Glycerate,Other,NA
+CE-TOF MS,T-185_Histamine,Histamine,Other,NA
+CE-TOF MS,T-186_Histidinol,Histidinol,Other,NA
+CE-TOF MS,T-188_Hypoxanthine,Hypoxanthine,Other,NA
+CE-TOF MS,T-191_N-Acetylornithine,N-Acetylornithine,Other,NA
+CE-TOF MS,T-192_N-AcetylGlu,N-AcetylGlu,Other,NA
+CE-TOF MS,T-195_Pyridoxal,Pyridoxal,Other,NA
+CE-TOF MS,T-197_Pyridoxine;T-261_Dopamine;T-416_N-Acetylhistamine;T-553_4-Deoxypyridoxine *,Pyridoxine/T-261_Dopamine/T-416_N-Acetylhistamine/T-553_4-Deoxypyridoxine,Other,NA
+CE-TOF MS,T-200_Xanthine;T-428_Hydroxyphenylacetate *,Xanthine/T-428_Hydroxyphenylacetate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-202_XMP,XMP,Other,NA
+CE-TOF MS,T-203_Choline[M]+,Choline,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-209_Arginosuccinate,Arginosuccinate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-212_Pyridoxamine5P,Pyridoxamine5P,Other,NA
+CE-TOF MS,T-214_Shikimate3P_1 **,Shikimate3P_1,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-214_Shikimate3P_2 **,Shikimate3P_2,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-218_Homogentisate_1 **,Homogentisate_1,Other,NA
+CE-TOF MS,T-218_Homogentisate_2 **,Homogentisate_2,Other,NA
+CE-TOF MS,T-218_Homogentisate_3 **,Homogentisate_3,Other,NA
+CE-TOF MS,T-218_Homogentisate_4 **,Homogentisate_4,Other,NA
+CE-TOF MS,T-221_Cystine,Cystine,Other,NA
+CE-TOF MS,T-227_HomoPhe,HomoPhe,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-228_HomoPro,HomoPro,Other,NA
+CE-TOF MS,T-231_HomoTyr,HomoTyr,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-256_IsoAsn,IsoAsn,Other,NA
+CE-TOF MS,T-257_N-AcetylSer,N-AcetylSer,Amino acids / Peptides,NA
+CE-TOF MS,T-259_Serotonin,Serotonin,Other,NA
+CE-TOF MS,T-262_Noradrenaline,Noradrenaline,Other,NA
+CE-TOF MS,T-267_5-OxoPro,5-OxoPro,Other,NA
+CE-TOF MS,T-268_Sinapate,Sinapate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-269_Raffinose,Raffinose,Other,NA
+CE-TOF MS,T-270_S6P,S6P,Other,NA
+CE-TOF MS,T-271_b-CyanoAla,b-CyanoAla,Other,NA
+CE-TOF MS,T-272_Allantoate,Allantoate,Other,NA
+CE-TOF MS,T-275_Saccharopine;T-509_Glu-Glu *,Saccharopine/T-509_Glu-Glu,Other,NA
+CE-TOF MS,T-276_2-Aminoadipate,2-Aminoadipate,Other,NA
+CE-TOF MS,T-277_SAH,SAH,Other,NA
+CE-TOF MS,T-289_Stachydrine,Stachydrine,Other,NA
+CE-TOF MS,T-290_3-Dehydroshikimate,3-Dehydroshikimate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-291_Thiamine[M]+,Thiamine,Other,NA
+CE-TOF MS,T-293_Riboflavin,Riboflavin,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-295_Isobutylamine,Isobutylamine,Other,NA
+CE-TOF MS,T-297_2-Aminobutyrate;T-540_2-Aminoisobutyrate *,2-Aminobutyrate/T-540_2-Aminoisobutyrate,Other,NA
+CE-TOF MS,T-298_DimethylGly,DimethylGly,Amino acids / Peptides,NA
+CE-TOF MS,T-299_Diethanolamine,Diethanolamine,Other,NA
+CE-TOF MS,T-302_Pipecolate,Pipecolate,Other,NA
+CE-TOF MS,T-303_Urocanate,Urocanate,Other,NA
+CE-TOF MS,T-305_3-MethylHis,3-MethylHis,Other,NA
+CE-TOF MS,T-306+_GSSG[M+2H],GSSG,AsA/GSH,NA
+CE-TOF MS,T-306_GSSG,GSSG,AsA/GSH,NA
+CE-TOF MS,T-307_3-Aminopropanediol,3-Aminopropanediol,Other,NA
+CE-TOF MS,T-310_Nicotinamide;T-311_Isonicotinamide *,Nicotinamide/T-311_Isonicotinamide,Other,NA
+CE-TOF MS,T-313_Octylamine_1 **,Octylamine_1,Other,NA
+CE-TOF MS,T-313_Octylamine_2 **,Octylamine_2,Other,NA
+CE-TOF MS,T-314_Triethanolamine,Triethanolamine,Other,NA
+CE-TOF MS,T-316_Methylthioadenosine,Methylthioadenosine,Other,NA
+CE-TOF MS,T-318_4-Oxovalerate,4-Oxovalerate,Other,NA
+CE-TOF MS,T-319_Benzoate,Benzoate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-322_3-Ureidopropionate,3-Ureidopropionate,Other,NA
+CE-TOF MS,T-323_HMG,HMG,Other,NA
+CE-TOF MS,T-325_2-Isopropylmalate;T-656_3-Isopropylmalate *,2-Isopropylmalate/T-656_3-Isopropylmalate,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-326_Chelidonate,Chelidonate,Other,NA
+CE-TOF MS,T-332_g-Guanidinobutyrate,g-Guanidinobutyrate,Other,NA
+CE-TOF MS,T-333_3-Hydroxypropionate,3-Hydroxypropionate,Other,NA
+CE-TOF MS,T-337_Mucic acid,Mucic acid,Other,NA
+CE-TOF MS,T-339_PhenylacetylGly,PhenylacetylGly,Amino acids / Peptides,NA
+CE-TOF MS,T-346_5-Amino-4-oxovalerate;T-391_N-Acetyl-b-Ala *,5-Amino-4-oxovalerate/T-391_N-Acetyl-b-Ala,Other,NA
+CE-TOF MS,T-347_GlcNAc6P;T-560_GalNAc6P *,GlcNAc6P/T-560_GalNAc6P,Other,NA
+CE-TOF MS,T-348_S7P,S7P,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,"T-349_T6P;T-496_L1P;T-497_Suc6'P_1 *,**","T6P/T-496_L1P/T-497_Suc6'P_1 ,",Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,"T-349_T6P;T-496_L1P;T-497_Suc6'P_2 *,**","T6P/T-496_L1P/T-497_Suc6'P_2 ,",Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-351_N8-Acetylspermidine,N8-Acetylspermidine,Polyamines,NA
+CE-TOF MS,T-352_4-Oxohexanoate,4-Oxohexanoate,Other,NA
+CE-TOF MS,T-355_1-Methyladenosine,1-Methyladenosine,Other,NA
+CE-TOF MS,T-359_Dimethylbenzimidazole,Dimethylbenzimidazole,Other,NA
+CE-TOF MS,T-360_5-Aminopentanoate,5-Aminopentanoate,Other,NA
+CE-TOF MS,T-362_5-MethylTHF,5-MethylTHF,Other,NA
+CE-TOF MS,T-364_Castanospermine,Castanospermine,Other,NA
+CE-TOF MS,T-365_CysSG,CysSG,Other,NA
+CE-TOF MS,T-366_GPC[M]+,GPC,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-367_Gly-Leu,Gly-Leu,Amino acids / Peptides,NA
+CE-TOF MS,T-371_Isopropanolamine,Isopropanolamine,Other,NA
+CE-TOF MS,T-372_N6-AcetylLys,N6-AcetylLys,Other,NA
+CE-TOF MS,T-373_N6-Methyl-2'-deoxyadenosine,N6-Methyl-2'-deoxyadenosine,Other,NA
+CE-TOF MS,T-374_N-Acetylputrescine,N-Acetylputrescine,Polyamines,NA
+CE-TOF MS,T-375_Ophthalmate,Ophthalmate,Other,NA
+CE-TOF MS,T-378_TMANO,TMANO,Other,NA
+CE-TOF MS,T-379_Trimethylsulfonium[M]+,Trimethylsulfonium,Other,NA
+CE-TOF MS,T-380_Gentisate,Gentisate,Other,NA
+CE-TOF MS,T-383_Thiotomin,Thiotomin,Other,NA
+CE-TOF MS,T-386_Cyclohexane-1-carboxylate,Cyclohexane-1-carboxylate,Other,NA
+CE-TOF MS,T-388_PEA,PEA,Other,NA
+CE-TOF MS,T-389_Hexanoate,Hexanoate,Other,NA
+CE-TOF MS,T-393_N-BenzyloxycarbonylGly,N-BenzyloxycarbonylGly,Amino acids / Peptides,NA
+CE-TOF MS,T-395_Octanoate,Octanoate,Other,NA
+CE-TOF MS,T-398_Phthalate,Phthalate,Other,NA
+CE-TOF MS,T-400_CDP-choline,CDP-choline,Carbohydrates / Sugar metabolism,NA
+CE-TOF MS,T-401_Hypotaurine,Hypotaurine,Other,NA
+CE-TOF MS,T-403_3-Methyladenine,3-Methyladenine,Other,NA
+CE-TOF MS,T-410_GA3,GA3,Other,NA
+CE-TOF MS,T-411_(S)-Dihydroorotate_1 **,(S)-Dihydroorotate_1,Other,NA
+CE-TOF MS,T-411_(S)-Dihydroorotate_2 **,(S)-Dihydroorotate_2,Other,NA
+CE-TOF MS,T-416_N-Acetylhistamine,N-Acetylhistamine,Other,NA
+CE-TOF MS,T-418_Methionine sulfoxide,Methionine sulfoxide,Other,NA
+CE-TOF MS,T-420_Phenyllactate_1 **,Phenyllactate_1,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-420_Phenyllactate_2 **,Phenyllactate_2,Central carbon metabolism (glycolysis + TCA),NA
+CE-TOF MS,T-421_Phenylpropanoate,Phenylpropanoate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-422_Sulfanilic acid,Sulfanilic acid,Other,NA
+CE-TOF MS,T-424_Benzamide,Benzamide,Other,NA
+CE-TOF MS,T-425_Decanoate,Decanoate,Other,NA
+CE-TOF MS,T-429_Hippurate,Hippurate,Other,NA
+CE-TOF MS,T-431_Dihydrouracil,Dihydrouracil,Other,NA
+CE-TOF MS,T-435_Melilotate,Melilotate,Other,NA
+CE-TOF MS,"T-436_1,3-Diaminopropane","1,3-Diaminopropane",Polyamines,NA
+CE-TOF MS,T-437_Barbiturate,Barbiturate,Other,NA
+CE-TOF MS,T-440_Pimelate,Pimelate,Other,NA
+CE-TOF MS,T-441_4-Hydroxybenzoate,4-Hydroxybenzoate,Aromatic / Phenylpropanoid,NA
+CE-TOF MS,T-442_Laurate,Laurate,Other,NA
+CE-TOF MS,T-445_Itaconate_1 **,Itaconate_1,Other,NA
+CE-TOF MS,T-445_Itaconate_2 **,Itaconate_2,Other,NA
+CE-TOF MS,T-446_Piperidine,Piperidine,Other,NA
+CE-TOF MS,T-452_Isethionate,Isethionate,Other,NA
+CE-TOF MS,T-465_cAMP,cAMP,Other,NA
+CE-TOF MS,T-467_Tropinone,Tropinone,Other,NA
+CE-TOF MS,T-476_g-Glu-Cys,g-Glu-Cys,Other,NA
+CE-TOF MS,T-482_Ala-Ala,Ala-Ala,Other,NA
+CE-TOF MS,T-489_Psychosine,Psychosine,Other,NA
+CE-TOF MS,T-491_TDP-glucose,TDP-glucose,Other,NA
+CE-TOF MS,T-495_Pyrrolidine,Pyrrolidine,Other,NA
+CE-TOF MS,T-500_Porphobilinogen,Porphobilinogen,Other,NA
+CE-TOF MS,T-513_L-Theanin,L-Theanin,Other,NA
+CE-TOF MS,T-515_N-AcetyGly,N-AcetyGly,Amino acids / Peptides,NA
+CE-TOF MS,T-516_3-Hydroxybutyrate;T-667_3-Hydroxyisobutyrate *,3-Hydroxybutyrate/T-667_3-Hydroxyisobutyrate,Other,NA
+CE-TOF MS,T-517_S-MethylMet,S-MethylMet,Other,NA
+CE-TOF MS,T-519_beta-NMN,beta-NMN,Other,NA
+CE-TOF MS,T-538_3-Aminoisobutyrate;T-539_3-Aminobutyrate *,3-Aminoisobutyrate/T-539_3-Aminobutyrate,Other,NA
+CE-TOF MS,T-547_Lupinine,Lupinine,Other,NA
+CE-TOF MS,T-549_Scopoletin,Scopoletin,Other,NA
+CE-TOF MS,T-552_3-[(2-aminoethyl)sulfanyl]propanoate,3-[(2-aminoethyl)sulfanyl]propanoate,Other,NA
+CE-TOF MS,T-553_4-Deoxypyridoxine,4-Deoxypyridoxine,Other,NA
+CE-TOF MS,T-555_Hypusine,Hypusine,Other,NA
+CE-TOF MS,T-559_GlcNAc1P,GlcNAc1P,Other,NA
+CE-TOF MS,T-579_Zidovudine,Zidovudine,Other,NA
+CE-TOF MS,T-581_Isocytosine,Isocytosine,Other,NA
+CE-TOF MS,T-597_Theophylline;T-600_Acetylsalicylate *,Theophylline/T-600_Acetylsalicylate,Other,NA
+CE-TOF MS,T-600_Acetylsalicylate,Acetylsalicylate,Other,NA
+CE-TOF MS,T-603_CML,CML,Other,NA
+CE-TOF MS,T-606_Fructose-Ala,Fructose-Ala,Other,NA
+CE-TOF MS,T-608_Fructose-Glu,Fructose-Glu,Other,NA
+CE-TOF MS,T-609_Fructose-Leu,Fructose-Leu,Other,NA
+CE-TOF MS,T-613_Fructose-Val,Fructose-Val,Other,NA
+CE-TOF MS,T-643_DXP,DXP,Other,NA
+CE-TOF MS,T-644_MEP,MEP,Other,NA
+CE-TOF MS,T-648_dGMP,dGMP,Other,NA
+CE-TOF MS,T-660_Hydantoin,Hydantoin,Other,NA
+CE-TOF MS,T-676_1-Amino-2-methyl-2-propanol_1 **,1-Amino-2-methyl-2-propanol_1,Other,NA
+CE-TOF MS,T-676_1-Amino-2-methyl-2-propanol_2 **,1-Amino-2-methyl-2-propanol_2,Other,NA
+CE-TOF MS,T-677_2-Dimethylaminoethanol,2-Dimethylaminoethanol,Other,NA
+CE-TOF MS,"T-683_3,5-Dihydroxycinnamate","3,5-Dihydroxycinnamate",Other,NA
+CE-TOF MS,"T-684_2,4-Dihydroxycinnamate","2,4-Dihydroxycinnamate",Other,NA
+CE-TOF MS,T-686_Leucic acid,Leucic acid,Other,NA
+CE-TOF MS,T-687_3-HydroxyVal,3-HydroxyVal,Other,NA
+CE-TOF MS,T-688_3-Methyl-2-oxobutanate,3-Methyl-2-oxobutanate,Other,NA
+CE-TOF MS,T-690_Valinol_1 **,Valinol_1,Other,NA
+CE-TOF MS,T-690_Valinol_2 **,Valinol_2,Other,NA
+CE-TOF MS,T-692_Mandelate,Mandelate,Other,NA
+CE-TOF MS,T-695_beta-ODAP,beta-ODAP,Other,NA
+CE-TOF MS,T-696_Threonate,Threonate,AsA/GSH,NA
+CE-TOF MS,T-697_2-Acetoxybutanoate,2-Acetoxybutanoate,Other,NA
+CE-TOF MS,T-698_alpha-keto-beta-methylvaleric acid,alpha-keto-beta-methylvaleric acid,Other,NA
+GC-MS/MS,"1,6-Anhydroglucose-3TMS","1,6-Anhydroglucose",Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,1-Hexadecanol-TMS,1-Hexadecanol-TMS,Other,NA
+GC-MS/MS,"2,3-diaminopropionic acid-3TMS","2,3-diaminopropionic acid",Other,NA
+GC-MS/MS,2-Aminoethanol-3TMS,2-Aminoethanol,Other,NA
+GC-MS/MS,2-Aminopimelic acid-3TMS,2-Aminopimelic acid,Other,NA
+GC-MS/MS,2-Deoxy-glucose-4TMS(1),2-Deoxy-glucose,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,2-Hydroxyglutaric acid-3TMS,2-Hydroxyglutaric acid,Other,NA
+GC-MS/MS,2-Isopropylmalic acid-3TMS,2-Isopropylmalic acid,Other,NA
+GC-MS/MS,2-Ketoadipic acid-meto-2TMS(1),2-Ketoadipic acid,Other,NA
+GC-MS/MS,2-Ketoglutaric acid-meto-2TMS,2-Ketoglutaric acid,Other,NA
+GC-MS/MS,2-Methylhippuric acid-TMS,2-Methylhippuric acid-TMS,Other,NA
+GC-MS/MS,2-Propyl-5-hydroxy-pentanoic acid-2TMS,2-Propyl-5-hydroxy-pentanoic acid,Other,NA
+GC-MS/MS,3-Aminoglutaric acid-2TMS,3-Aminoglutaric acid,Other,NA
+GC-MS/MS,3-Aminopropanoic acid-3TMS,3-Aminopropanoic acid,Other,NA
+GC-MS/MS,3-Dehydroshikimic acid-meto-3TMS(2),3-Dehydroshikimic acid,Other,NA
+GC-MS/MS,3-Hydroxy-3-methylglutaric acid-3TMS,3-Hydroxy-3-methylglutaric acid,Other,NA
+GC-MS/MS,3-Hydroxybutyric acid-2TMS,3-Hydroxybutyric acid,Other,NA
+GC-MS/MS,3-Hydroxyglutaric acid-3TMS,3-Hydroxyglutaric acid,Other,NA
+GC-MS/MS,3-Hydroxyisovaleric acid-2TMS,3-Hydroxyisovaleric acid,Other,NA
+GC-MS/MS,4-Aminobutyric acid-3TMS,4-Aminobutyric acid,Other,NA
+GC-MS/MS,4-Hydroxybenzoic acid-2TMS,4-Hydroxybenzoic acid,Other,NA
+GC-MS/MS,4-Hydroxyphenylpyruvic acid-meto-2TMS,4-Hydroxyphenylpyruvic acid,Other,NA
+GC-MS/MS,4-Hydroxyproline-3TMS,4-Hydroxyproline,Amino acids / Peptides,NA
+GC-MS/MS,5'-Methylthioadenosine-3TMS,5'-Methylthioadenosine,Other,NA
+GC-MS/MS,5-Aminovaleric acid-3TMS,5-Aminovaleric acid,Other,NA
+GC-MS/MS,5-Methoxytryptamine-2TMS,5-Methoxytryptamine,Other,NA
+GC-MS/MS,5-Oxoproline-2TMS,5-Oxoproline,Amino acids / Peptides,NA
+GC-MS/MS,Acetylglycine-2TMS,Acetylglycine,Amino acids / Peptides,NA
+GC-MS/MS,Aconitic acid-3TMS,Aconitic acid,Central carbon metabolism (glycolysis + TCA),NA
+GC-MS/MS,Adenine-2TMS,Adenine,Other,NA
+GC-MS/MS,Alanine-2TMS,Alanine,Amino acids / Peptides,NA
+GC-MS/MS,Allose-meto-5TMS(2),Allose,Other,NA
+GC-MS/MS,Arabinose-meto-4TMS,Arabinose,Other,NA
+GC-MS/MS,Arabitol-5TMS,Arabitol,Other,NA
+GC-MS/MS,Arginine-3TMS,Arginine,Other,NA
+GC-MS/MS,Ascorbic acid-4TMS,Ascorbic acid,AsA/GSH,NA
+GC-MS/MS,Asparagine-3TMS,Asparagine,Amino acids / Peptides,NA
+GC-MS/MS,Aspartic acid-3TMS,Aspartic acid,Amino acids / Peptides,NA
+GC-MS/MS,Batyl alcohol-2TMS,Batyl alcohol,Other,NA
+GC-MS/MS,Biotin-3TMS,Biotin,Other,NA
+GC-MS/MS,Cadaverine-3TMS,Cadaverine,Other,NA
+GC-MS/MS,Citramalic acid-3TMS,Citramalic acid,Other,NA
+GC-MS/MS,Citric acid-4TMS,Citric acid,Central carbon metabolism (glycolysis + TCA),NA
+GC-MS/MS,Cystamine-nTMS,Cystamine,Other,NA
+GC-MS/MS,Cysteine-3TMS,Cysteine,Other,NA
+GC-MS/MS,Dihydroorotic acid-3TMS,Dihydroorotic acid,Other,NA
+GC-MS/MS,Docosahexaenoic acid-TMS,Docosahexaenoic acid-TMS,Other,NA
+GC-MS/MS,Docosapentaenoic acid-TMS,Docosapentaenoic acid-TMS,Other,NA
+GC-MS/MS,Dopamine-4TMS,Dopamine,Other,NA
+GC-MS/MS,Elaidic acid-TMS,Elaidic acid-TMS,Other,NA
+GC-MS/MS,Erythrose 4-phosphate-meto-4TMS(2),Erythrose 4-phosphate,Other,NA
+GC-MS/MS,Erythrulose-meto-3TMS(1),Erythrulose,Other,NA
+GC-MS/MS,Fructose 1-phosphate-meto-6TMS(1),Fructose 1-phosphate,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,Fructose 6-phosphate-meto-6TMS,Fructose 6-phosphate,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,Fructose-meto-5TMS(2),Fructose,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,Fucose-meto-4TMS(1),Fucose,Other,NA
+GC-MS/MS,Fumaric acid-2TMS,Fumaric acid,Central carbon metabolism (glycolysis + TCA),NA
+GC-MS/MS,Galactitol-6TMS,Galactitol,Polyols,NA
+GC-MS/MS,Galactosamine-5TMS(1),Galactosamine,Other,NA
+GC-MS/MS,Galactose-meto-5TMS(2),Galactose,Other,NA
+GC-MS/MS,Galacturonic acid-meto-5TMS(1),Galacturonic acid,Other,NA
+GC-MS/MS,Gluconic acid-6TMS,Gluconic acid,Other,NA
+GC-MS/MS,"Glucono-1,5-lactone-4TMS","Glucono-1,5-lactone",Other,NA
+GC-MS/MS,Glucosamine-5TMS(1),Glucosamine,Other,NA
+GC-MS/MS,Glucose 6-phosphate-meto-6TMS(1),Glucose 6-phosphate,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,Glucose-meto-5TMS(2),Glucose,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,Glutaconic acid-2TMS,Glutaconic acid,Other,NA
+GC-MS/MS,Glutamic acid 5-methylester-2TMS,Glutamic acid 5-methylester,Amino acids / Peptides,NA
+GC-MS/MS,Glutamic acid-3TMS,Glutamic acid,Amino acids / Peptides,NA
+GC-MS/MS,Glutamine-4TMS,Glutamine,Amino acids / Peptides,NA
+GC-MS/MS,Glyceric acid-3TMS,Glyceric acid,Photorespiration,NA
+GC-MS/MS,Glycerol 3-phosphate-4TMS,Glycerol 3-phosphate,Other,NA
+GC-MS/MS,Glycerol-3TMS,Glycerol,Other,NA
+GC-MS/MS,Glycine-3TMS,Glycine,Amino acids / Peptides,NA
+GC-MS/MS,Glycyl-Glycine-3TMS,Glycyl-Glycine,Amino acids / Peptides,NA
+GC-MS/MS,Glyoxylic acid-oxime-2TMS,Glyoxylic acid-oxime,Other,NA
+GC-MS/MS,Hippuric acid-TMS,Hippuric acid-TMS,Other,NA
+GC-MS/MS,Histidinol-2TMS,Histidinol,Other,NA
+GC-MS/MS,Hydroxylamine-3TMS,Hydroxylamine,Other,NA
+GC-MS/MS,Hypotaurine-3TMS,Hypotaurine,Other,NA
+GC-MS/MS,Hypoxanthine-2TMS,Hypoxanthine,Other,NA
+GC-MS/MS,Inosine-4TMS,Inosine,Other,NA
+GC-MS/MS,Inositol phosphate-7TMS,Inositol phosphate,Polyols,NA
+GC-MS/MS,Inositol-6TMS(2),Inositol,Polyols,NA
+GC-MS/MS,Isocitric acid-4TMS,Isocitric acid,Central carbon metabolism (glycolysis + TCA),NA
+GC-MS/MS,Isoleucine-2TMS,Isoleucine,Amino acids / Peptides,NA
+GC-MS/MS,Kynurenic acid-2TMS,Kynurenic acid,Other,NA
+GC-MS/MS,Lactic acid-2TMS,Lactic acid,Central carbon metabolism (glycolysis + TCA),NA
+GC-MS/MS,Lactitol-9TMS,Lactitol,Other,NA
+GC-MS/MS,Lactose-meto-8TMS(2),Lactose,Other,NA
+GC-MS/MS,Lauric acid-TMS,Lauric acid-TMS,Other,NA
+GC-MS/MS,Leucine-2TMS,Leucine,Amino acids / Peptides,NA
+GC-MS/MS,Lysine-4TMS,Lysine,Amino acids / Peptides,NA
+GC-MS/MS,Lyxose-meto-4TMS(2),Lyxose,Other,NA
+GC-MS/MS,Malic acid-3TMS,Malic acid,Central carbon metabolism (glycolysis + TCA),NA
+GC-MS/MS,Malonic acid-2TMS,Malonic acid,Other,NA
+GC-MS/MS,Maltose-meto-8TMS(1),Maltose,Other,NA
+GC-MS/MS,Mannitol-6TMS,Mannitol,Polyols,NA
+GC-MS/MS,Mannose 6-phosphate-meto-6TMS(2),Mannose 6-phosphate,Other,NA
+GC-MS/MS,Mannose-meto-5TMS(1),Mannose,Other,NA
+GC-MS/MS,Margaric acid-TMS,Margaric acid-TMS,Other,NA
+GC-MS/MS,Melatonin-TMS,Melatonin-TMS,Other,NA
+GC-MS/MS,Myristic acid-TMS,Myristic acid-TMS,Other,NA
+GC-MS/MS,N-Acetyl-Lysine-2TMS,N-Acetyl-Lysine,Amino acids / Peptides,NA
+GC-MS/MS,N-Acetylglutamine-3TMS,N-Acetylglutamine,Amino acids / Peptides,NA
+GC-MS/MS,N-Acetylmannosamine-meto-4TMS(2),N-Acetylmannosamine,Other,NA
+GC-MS/MS,N-Acetylneuraminic acid-6TMS,N-Acetylneuraminic acid,Other,NA
+GC-MS/MS,Norspermidine-nTMS,Norspermidine,Other,NA
+GC-MS/MS,O-Acetylserine-2TMS,O-Acetylserine,Amino acids / Peptides,NA
+GC-MS/MS,O-Phosphoethanolamine-4TMS,O-Phosphoethanolamine,Other,NA
+GC-MS/MS,Octadecanol-TMS,Octadecanol-TMS,Other,NA
+GC-MS/MS,Oleamide-TMS,Oleamide-TMS,Other,NA
+GC-MS/MS,Oleic acid-TMS,Oleic acid-TMS,Other,NA
+GC-MS/MS,Orotic acid-3TMS,Orotic acid,Other,NA
+GC-MS/MS,Oxalacetic acid-3TMS,Oxalacetic acid,Other,NA
+GC-MS/MS,Oxalic acid-2TMS,Oxalic acid,Other,NA
+GC-MS/MS,Palmitic acid-TMS,Palmitic acid-TMS,Other,NA
+GC-MS/MS,Palmitoleic acid-TMS,Palmitoleic acid-TMS,Other,NA
+GC-MS/MS,Pantothenic acid-3TMS,Pantothenic acid,Other,NA
+GC-MS/MS,Phenylalanine-2TMS,Phenylalanine,Amino acids / Peptides,NA
+GC-MS/MS,Phenylpyruvic acid-meto-TMS(1),Phenylpyruvic acid-TMS,Other,NA
+GC-MS/MS,Phosphoric acid-3TMS,Phosphoric acid,Other,NA
+GC-MS/MS,Proline-2TMS,Proline,Amino acids / Peptides,NA
+GC-MS/MS,Psicose-meto-5TMS(2),Psicose,Other,NA
+GC-MS/MS,Putrescine-4TMS,Putrescine,Other,NA
+GC-MS/MS,Pyridoxal-meto-2TMS(1),Pyridoxal,Other,NA
+GC-MS/MS,Rhamnose-meto-4TMS(1),Rhamnose,Other,NA
+GC-MS/MS,Ribitol-5TMS,Ribitol,Other,NA
+GC-MS/MS,Ribonic acid-5TMS,Ribonic acid,Other,NA
+GC-MS/MS,Ribonolactone-3TMS,Ribonolactone,Other,NA
+GC-MS/MS,Ribose 5-phosphate-meto-5TMS(2),Ribose 5-phosphate,Other,NA
+GC-MS/MS,Ribose-meto-4TMS,Ribose,Other,NA
+GC-MS/MS,Ribulose 5-phosphate-meto-5TMS(2),Ribulose 5-phosphate,Other,NA
+GC-MS/MS,Ribulose-meto-4TMS,Ribulose,Other,NA
+GC-MS/MS,S-Adenosylmethionine -nTMS,S-Adenosylmethionine,Amino acids / Peptides,NA
+GC-MS/MS,S-Benzyl-Cysteine-4TMS,S-Benzyl-Cysteine,Other,NA
+GC-MS/MS,Saccharopine-4TMS,Saccharopine,Other,NA
+GC-MS/MS,Sarcosine-2TMS,Sarcosine,Other,NA
+GC-MS/MS,Sedoheptulose 7-phosphate-meto-7TMS,Sedoheptulose 7-phosphate,Other,NA
+GC-MS/MS,Serine-3TMS,Serine,Amino acids / Peptides,NA
+GC-MS/MS,Shikimic acid-4TMS,Shikimic acid,Other,NA
+GC-MS/MS,Sorbitol-6TMS,Sorbitol,Polyols,NA
+GC-MS/MS,Sorbose-meto-5TMS(1),Sorbose,Other,NA
+GC-MS/MS,Spermidine-5TMS,Spermidine,Other,NA
+GC-MS/MS,Stearic acid-TMS,Stearic acid-TMS,Other,NA
+GC-MS/MS,Suberylglycine-2TMS,Suberylglycine,Amino acids / Peptides,NA
+GC-MS/MS,Succinic acid-2TMS,Succinic acid,Central carbon metabolism (glycolysis + TCA),NA
+GC-MS/MS,Sucrose-8TMS,Sucrose,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,Tagatose-meto-5TMS(2),Tagatose,Other,NA
+GC-MS/MS,Threitol-4TMS,Threitol,Other,NA
+GC-MS/MS,Threo-b-hydroxyaspartic acid-4TMS,Threo-b-hydroxyaspartic acid,Amino acids / Peptides,NA
+GC-MS/MS,Threonic acid-4TMS,Threonic acid,AsA/GSH,NA
+GC-MS/MS,Threonine-3TMS,Threonine,Other,NA
+GC-MS/MS,Trehalose-8TMS,Trehalose,Carbohydrates / Sugar metabolism,NA
+GC-MS/MS,Tryptamine-3TMS,Tryptamine,Other,NA
+GC-MS/MS,Tryptophan-3TMS,Tryptophan,Amino acids / Peptides,NA
+GC-MS/MS,Tyramine-3TMS,Tyramine,Other,NA
+GC-MS/MS,Tyrosine-3TMS,Tyrosine,Amino acids / Peptides,NA
+GC-MS/MS,Ureidopropionic acid-3TMS,Ureidopropionic acid,Other,NA
+GC-MS/MS,Uridine-3TMS,Uridine,Other,NA
+GC-MS/MS,Valine-2TMS,Valine,Amino acids / Peptides,NA
+GC-MS/MS,Valproic acid-TMS,Valproic acid-TMS,Other,NA
+GC-MS/MS,Xanthosine monophosphate-6TMS,Xanthosine monophosphate,Other,NA
+GC-MS/MS,Xylitol-5TMS,Xylitol,Polyols,NA
+GC-MS/MS,Xylose-meto-4TMS(1),Xylose,Other,NA
+GC-MS/MS,Xylulose-meto-4TMS,Xylulose,Other,NA
+GC-MS/MS,meso-Erythritol-4TMS,meso-Erythritol,Other,NA
+LC-MS/MS,(+)-7-Isomethyljasmonate;,(+)-7-Isomethyljasmonate,Hormones / Signals,NA
+LC-MS/MS,(+)-Demethylpiperitol; Sesamin monocatechol;,(+)-Demethylpiperitol,Other,NA
+LC-MS/MS,(+)-Pinoresinol,(+)-Pinoresinol,Other,NA
+LC-MS/MS,(+)-Prosopinine;,(+)-Prosopinine,Other,NA
+LC-MS/MS,(+/-)-6-Hydroxy-3-oxo-alpha-ionone;,(+/-)-6-Hydroxy-3-oxo-alpha-ionone,Other,NA
+LC-MS/MS,"(+/-)-CP 47,497-C7-Hydroxy metabolite","(+/-)-CP 47,497-C7-Hydroxy metabolite",Other,NA
+LC-MS/MS,(+/-)-Lefetamine,(+/-)-Lefetamine,Other,NA
+LC-MS/MS,(+/-)11(12)-DiHET,(+/-)11(12)-DiHET,Other,NA
+LC-MS/MS,(+/-)11(12)-EET,(+/-)11(12)-EET,Other,NA
+LC-MS/MS,(+/-)12(13)-DiHOME,(+/-)12(13)-DiHOME,Other,NA
+LC-MS/MS,(+/-)9(10)-EpOME,(+/-)9(10)-EpOME,Other,NA
+LC-MS/MS,(+/-)9-HpODE,(+/-)9-HpODE,Other,NA
+LC-MS/MS,(-)-Acanthocarpan;,(-)-Acanthocarpan,Other,NA
+LC-MS/MS,(-)-Amurensisin,(-)-Amurensisin,Other,NA
+LC-MS/MS,(-)-Asbestinine 2,(-)-Asbestinine 2,Other,NA
+LC-MS/MS,(-)-Fusicoplagin A,(-)-Fusicoplagin A,Other,NA
+LC-MS/MS,(-)-Fustin,(-)-Fustin,Other,NA
+LC-MS/MS,(-)-Maackiain-3-O-glucosyl-6''-O-malonate;,(-)-Maackiain-3-O-glucosyl-6''-O-malonate,Other,NA
+LC-MS/MS,"(1'S,5'S)-Averufin;","(1'S,5'S)-Averufin",Other,NA
+LC-MS/MS,"(1E)-5-hydroxy-1,7-diphenylhept-1-en-3-one","(1E)-5-hydroxy-1,7-diphenylhept-1-en-3-one",Other,NA
+LC-MS/MS,"(25R)-11alpha,20,26-trihydroxyecdysone","(25R)-11alpha,20,26-trihydroxyecdysone",Other,NA
+LC-MS/MS,"(2R)-2,3-Dihydroxypropanoic acid","(2R)-2,3-Dihydroxypropanoic acid",Other,NA
+LC-MS/MS,(3'-sulfo)Galbeta-Cer(d18:1/18:0(2OH)),(3'-sulfo)Galbeta-Cer(d18:1/18:0(2OH)),Lipids / Membrane,NA
+LC-MS/MS,"(4E,8E,10E-d18:3)sphingosine","(4E,8E,10E-d18:3)sphingosine",Lipids / Membrane,NA
+LC-MS/MS,(5-(but-3-en-1-yn-1-yl)thiophen-2-yl)methanol,(5-(but-3-en-1-yn-1-yl)thiophen-2-yl)methanol,Other,NA
+LC-MS/MS,"(9R,12R,15R)-d10-13-PhytoF[13S,16S]","(9R,12R,15R)-d10-13-PhytoF[13S,16S]",Other,NA
+LC-MS/MS,"(9S,12S,15R)-d10-13-PhytoF[13R,16R]","(9S,12S,15R)-d10-13-PhytoF[13R,16R]",Other,NA
+LC-MS/MS,(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate;,(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate,Other,NA
+LC-MS/MS,(R)-3-Hydroxy myristic acid,(R)-3-Hydroxy myristic acid,Other,NA
+LC-MS/MS,(S)-2-Phenyloxirane; (S)-Styrene oxide;,(S)-2-Phenyloxirane,Other,NA
+LC-MS/MS,(S)-3-Acetyloctanal;,(S)-3-Acetyloctanal,Other,NA
+LC-MS/MS,(S)-Dibenzyl 2-aminosuccinate,(S)-Dibenzyl 2-aminosuccinate,Other,NA
+LC-MS/MS,(S)-N-alpha-benzoylarginine ethyl ester,(S)-N-alpha-benzoylarginine ethyl ester,Other,NA
+LC-MS/MS,(Stearoyl)adenylate;,(Stearoyl)adenylate,Other,NA
+LC-MS/MS,1'-Hydroxyversicolorone; Hydroxyversicolorone;,1'-Hydroxyversicolorone,Other,NA
+LC-MS/MS,"1,2-Dihydroxy-8-methylnaphthalene;","1,2-Dihydroxy-8-methylnaphthalene",Other,NA
+LC-MS/MS,"1,4-dihydroxyheptadec-16-en-2-yl acetate","1,4-dihydroxyheptadec-16-en-2-yl acetate",Other,NA
+LC-MS/MS,"1,5-Naphthalenediamine;","1,5-Naphthalenediamine",Other,NA
+LC-MS/MS,"1,6-Hexanediol diacrylate","1,6-Hexanediol diacrylate",Other,NA
+LC-MS/MS,"1-(2-Aminophenyl)decane-1,3-dione;","1-(2-Aminophenyl)decane-1,3-dione",Other,NA
+LC-MS/MS,"1-(2-furyl)pentane-1,4-dione","1-(2-furyl)pentane-1,4-dione",Other,NA
+LC-MS/MS,1-(2-methoxy-4-nitrophenyl)pyrrolidine,1-(2-methoxy-4-nitrophenyl)pyrrolidine,Other,NA
+LC-MS/MS,"1-(4-hydroxyphenyl)propane-1,2-diol","1-(4-hydroxyphenyl)propane-1,2-diol",Other,NA
+LC-MS/MS,1-(5-Phosphoribosyl)imidazole-4-acetate;,1-(5-Phosphoribosyl)imidazole-4-acetate,Other,NA
+LC-MS/MS,1-Caffeoyl-beta-D-glucose;,1-Caffeoyl-beta-D-glucose,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,1-Ethoxynaphthalene,1-Ethoxynaphthalene,Other,NA
+LC-MS/MS,1-Hydroxyvitamin D3 cellobioside,1-Hydroxyvitamin D3 cellobioside,Other,NA
+LC-MS/MS,1-Linoleoyl glycerol,1-Linoleoyl glycerol,Lipids / Membrane,NA
+LC-MS/MS,1-Naphthylamine;,1-Naphthylamine,Other,NA
+LC-MS/MS,1-O-Octadec-9-enyl glycerol; Selachyl alcohol;,1-O-Octadec-9-enyl glycerol,Lipids / Membrane,NA
+LC-MS/MS,1-Palmitoylglycerol,1-Palmitoylglycerol,Lipids / Membrane,NA
+LC-MS/MS,1-Stearoylglycerol,1-Stearoylglycerol,Lipids / Membrane,NA
+LC-MS/MS,1-Tetradecylamine,1-Tetradecylamine,Other,NA
+LC-MS/MS,10-Desacetyltaxuyunnanin C;,10-Desacetyltaxuyunnanin C,Other,NA
+LC-MS/MS,10-Nitrooleate,10-Nitrooleate,Other,NA
+LC-MS/MS,10-fluoro-capric acid,10-fluoro-capric acid,Other,NA
+LC-MS/MS,11-Aminoundecanoic acid;,11-Aminoundecanoic acid,Other,NA
+LC-MS/MS,11-cis-Dehydroretinal;,11-cis-Dehydroretinal,Other,NA
+LC-MS/MS,"11-deoxy-16,16-dimethyl-PGE2","11-deoxy-16,16-dimethyl-PGE2",Other,NA
+LC-MS/MS,11-o-Galloylbergenin;,11-o-Galloylbergenin,Other,NA
+LC-MS/MS,"11alpha-Hemiglutaryloxy-1,25-dihydroxyvitamin D3","11alpha-Hemiglutaryloxy-1,25-dihydroxyvitamin D3",Other,NA
+LC-MS/MS,"11beta,17alpha,21-Trihydroxypregnenolone;","11beta,17alpha,21-Trihydroxypregnenolone",Other,NA
+LC-MS/MS,11beta-Hydroxyandrosterone,11beta-Hydroxyandrosterone,Other,NA
+LC-MS/MS,12-Aminododecanoic acid,12-Aminododecanoic acid,Other,NA
+LC-MS/MS,12-Hydroxyjasmonate; 12-Hydroxyjasmonic acid;,12-Hydroxyjasmonate,Hormones / Signals,NA
+LC-MS/MS,12-Oxo-9(Z)-dodecenoic acid;,12-Oxo-9(Z)-dodecenoic acid,Other,NA
+LC-MS/MS,12-amino-dodecanoic acid,12-amino-dodecanoic acid,Other,NA
+LC-MS/MS,12-oxo Phytodienoic Acid,12-oxo Phytodienoic Acid,Other,NA
+LC-MS/MS,13(S)-HOTrE,13(S)-HOTrE,Other,NA
+LC-MS/MS,13(S)-HpOTrE,13(S)-HpOTrE,Other,NA
+LC-MS/MS,"13,14-Dihydro prostaglandin E1","13,14-Dihydro prostaglandin E1",Other,NA
+LC-MS/MS,"13,14-Dihydro-19(R)-hydroxy prostaglandin E1","13,14-Dihydro-19(R)-hydroxy prostaglandin E1",Other,NA
+LC-MS/MS,"13,14-dihydro-15-keto-tetranor Prostaglandin E2","13,14-dihydro-15-keto-tetranor Prostaglandin E2",Other,NA
+LC-MS/MS,13-Apo-beta-carotenone;,13-Apo-beta-carotenone,Antioxidants,Apocarotenoids
+LC-MS/MS,13-HODE-EA,13-HODE-EA,Other,NA
+LC-MS/MS,14(S)-HDHA,14(S)-HDHA,Other,NA
+LC-MS/MS,14-fluoro-myristic acid,14-fluoro-myristic acid,Other,NA
+LC-MS/MS,"14beta-14,15-dihydrocalonysterone","14beta-14,15-dihydrocalonysterone",Other,NA
+LC-MS/MS,"15-Deoxy-delta12,14 -Prostaglandin J2","15-Deoxy-delta12,14 -Prostaglandin J2",Other,NA
+LC-MS/MS,15-epi-17-F2c-dihomo-IsoP,15-epi-17-F2c-dihomo-IsoP,Other,NA
+LC-MS/MS,16-Hydroxyhexadecanoic acid,16-Hydroxyhexadecanoic acid,Other,NA
+LC-MS/MS,16-dimethylarsinoyl-9Z-hexadecenoic acid,16-dimethylarsinoyl-9Z-hexadecenoic acid,Other,NA
+LC-MS/MS,17-(4-Hydroxyphenyl)heptadecanoate;,17-(4-Hydroxyphenyl)heptadecanoate,Other,NA
+LC-MS/MS,17-AAG,17-AAG,Other,NA
+LC-MS/MS,19'-Hexanoyloxyfucoxanthin,19'-Hexanoyloxyfucoxanthin,Antioxidants,Carotenoids (xanthophylls)
+LC-MS/MS,"1a,1b-Dihomo prostaglandin E1","1a,1b-Dihomo prostaglandin E1",Other,NA
+LC-MS/MS,"1a,1b-Dihomo prostaglandin F2alpha","1a,1b-Dihomo prostaglandin F2alpha",Other,NA
+LC-MS/MS,2 -(Butylamido)-4-hydroxybutanoic acid;,2 -(Butylamido)-4-hydroxybutanoic acid,Other,NA
+LC-MS/MS,2''-O-beta-L-Galactopyranosylorientin,2''-O-beta-L-Galactopyranosylorientin,Other,NA
+LC-MS/MS,2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate;,2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate,Other,NA
+LC-MS/MS,2'-Deoxyadenosine,2'-Deoxyadenosine,Other,NA
+LC-MS/MS,2'-Deoxyinosine 5'-monophosphate,2'-Deoxyinosine 5'-monophosphate,Other,NA
+LC-MS/MS,2'-O-Methyladenosine,2'-O-Methyladenosine,Other,NA
+LC-MS/MS,"2,2',3',4,4',5,5'-Heptachloro-3-biphenylol;","2,2',3',4,4',5,5'-Heptachloro-3-biphenylol",Other,NA
+LC-MS/MS,"2,2'-Methylenebis(6-cyclohexyl-4-methylphenol)","2,2'-Methylenebis(6-cyclohexyl-4-methylphenol)",Other,NA
+LC-MS/MS,"2,2-Bis(hydroxymethyl)propionic acid","2,2-Bis(hydroxymethyl)propionic acid",Other,NA
+LC-MS/MS,"2,3-Dihydroxybenzoic acid","2,3-Dihydroxybenzoic acid",Other,NA
+LC-MS/MS,"2,3-Dinor prostaglandin E1","2,3-Dinor prostaglandin E1",Other,NA
+LC-MS/MS,"2,3-Dinor-11beta-prostaglandin F2alpha","2,3-Dinor-11beta-prostaglandin F2alpha",Other,NA
+LC-MS/MS,"2,3-Dinor-8-epi-prostaglandin F2alpha","2,3-Dinor-8-epi-prostaglandin F2alpha",Other,NA
+LC-MS/MS,"2,3-Dinor-TXB2","2,3-Dinor-TXB2",Other,NA
+LC-MS/MS,"2,3-dihydroxypropyl 12-methyltridecanoate","2,3-dihydroxypropyl 12-methyltridecanoate",Other,NA
+LC-MS/MS,"2,3-dinor-8-iso Prostaglandin F2?","2,3-dinor-8-iso Prostaglandin F2?",Other,NA
+LC-MS/MS,"2,4-Diacetylphloroglucinol;","2,4-Diacetylphloroglucinol",Other,NA
+LC-MS/MS,"2,5-Dihydroxybenzaldehyde","2,5-Dihydroxybenzaldehyde",Other,NA
+LC-MS/MS,"2,5-Dimethyl-N-(3-methyl-5-isoxazolyl)-3-furamide","2,5-Dimethyl-N-(3-methyl-5-isoxazolyl)-3-furamide",Other,NA
+LC-MS/MS,"2,5-Furandicarboxylic acid","2,5-Furandicarboxylic acid",Other,NA
+LC-MS/MS,"2,6-Di-tert-butyl-1,4-benzoquinone","2,6-Di-tert-butyl-1,4-benzoquinone",Other,NA
+LC-MS/MS,"2,6-Dimethyldeca-2,4,6,8-tetraenedial;","2,6-Dimethyldeca-2,4,6,8-tetraenedial",Other,NA
+LC-MS/MS,"2,6-Naphthalenedisulfonic acid;","2,6-Naphthalenedisulfonic acid",Other,NA
+LC-MS/MS,"2,7-Dihydroxy-5-methyl-1-naphthoate;","2,7-Dihydroxy-5-methyl-1-naphthoate",Other,NA
+LC-MS/MS,2-(2-thienyl)-4H-chromen-4-one,2-(2-thienyl)-4H-chromen-4-one,Other,NA
+LC-MS/MS,2-(5-Chloro-2-methylanilino)-2-phenylacetonitrile,2-(5-Chloro-2-methylanilino)-2-phenylacetonitrile,Other,NA
+LC-MS/MS,2-(Phenylsulfonyl)acetophenone,2-(Phenylsulfonyl)acetophenone,Other,NA
+LC-MS/MS,2-(S-Glutathionyl)acetyl glutathione;,2-(S-Glutathionyl)acetyl glutathione,AsA/GSH,NA
+LC-MS/MS,2-(alpha-D-Glucosyl)-sn-glycerol 3-phosphate;,2-(alpha-D-Glucosyl)-sn-glycerol 3-phosphate,Lipids / Membrane,NA
+LC-MS/MS,"2-Amino-1,3,4-octadecanetriol","2-Amino-1,3,4-octadecanetriol",Other,NA
+LC-MS/MS,"2-Amino-1,3-octadecanediol","2-Amino-1,3-octadecanediol",Other,NA
+LC-MS/MS,2-Amino-4-chloro-6-methylpyrimidine,2-Amino-4-chloro-6-methylpyrimidine,Other,NA
+LC-MS/MS,2-Amino-5-oxohexanoate;,2-Amino-5-oxohexanoate,Other,NA
+LC-MS/MS,2-Anisic acid,2-Anisic acid,Other,NA
+LC-MS/MS,2-Arachidonoyl glycerol,2-Arachidonoyl glycerol,Lipids / Membrane,NA
+LC-MS/MS,2-Benzoyl-3-chloro-1H-phenalen-1-one,2-Benzoyl-3-chloro-1H-phenalen-1-one,Other,NA
+LC-MS/MS,2-Butoxyacetic acid,2-Butoxyacetic acid,Other,NA
+LC-MS/MS,2-C-Methyl-D-erythritol 4-phosphate;,2-C-Methyl-D-erythritol 4-phosphate,Other,NA
+LC-MS/MS,2-Chlorobenzhydrol;,2-Chlorobenzhydrol,Other,NA
+LC-MS/MS,2-Dehydro-D-xylonate;,2-Dehydro-D-xylonate,Other,NA
+LC-MS/MS,2-Ethoxy-2'-ethyloxanilide,2-Ethoxy-2'-ethyloxanilide,Other,NA
+LC-MS/MS,2-Furoic acid,2-Furoic acid,Other,NA
+LC-MS/MS,2-Hydroxy-3-oxosuccinate; Oxaloglycolate;,2-Hydroxy-3-oxosuccinate,Other,NA
+LC-MS/MS,2-Hydroxycaproic acid,2-Hydroxycaproic acid,Other,NA
+LC-MS/MS,2-Hydroxycinnamic acid,2-Hydroxycinnamic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,2-Hydroxymethylclavam;,2-Hydroxymethylclavam,Other,NA
+LC-MS/MS,2-Hydroxyphenylalanine,2-Hydroxyphenylalanine,Amino acids / Peptides,NA
+LC-MS/MS,2-Iodo-6-methoxyphenol;,2-Iodo-6-methoxyphenol,Other,NA
+LC-MS/MS,2-Isopropylmalic acid,2-Isopropylmalic acid,Other,NA
+LC-MS/MS,2-Mercaptobenzothiazole,2-Mercaptobenzothiazole,Other,NA
+LC-MS/MS,2-Methyl-4-pentenoic Acid,2-Methyl-4-pentenoic Acid,Other,NA
+LC-MS/MS,2-Methylaminoadenosine;,2-Methylaminoadenosine,Other,NA
+LC-MS/MS,2-Methylbenzoic acid,2-Methylbenzoic acid,Other,NA
+LC-MS/MS,"2-N,6-N-Bis(2,3-dihydroxybenzoyl)-L-lysine;","2-N,6-N-Bis(2,3-dihydroxybenzoyl)-L-lysine",Amino acids / Peptides,NA
+LC-MS/MS,2-Oxo-turkesterone,2-Oxo-turkesterone,Other,NA
+LC-MS/MS,2-Oxoglutaric acid,2-Oxoglutaric acid,Other,NA
+LC-MS/MS,"2-Pyrone-4,6-dicarboxylate;","2-Pyrone-4,6-dicarboxylate",Other,NA
+LC-MS/MS,2-[(2-nitrovinyl)amino]benzoic acid,2-[(2-nitrovinyl)amino]benzoic acid,Other,NA
+LC-MS/MS,2-bromo-2-butenoic acid,2-bromo-2-butenoic acid,Other,NA
+LC-MS/MS,"2-bromo-4-(1,3-dithiolan-2-yl)-6-methoxyphenol","2-bromo-4-(1,3-dithiolan-2-yl)-6-methoxyphenol",Other,NA
+LC-MS/MS,2-hydroxy-decanedioic acid,2-hydroxy-decanedioic acid,Other,NA
+LC-MS/MS,2-hydroxy-nonadecanoic acid,2-hydroxy-nonadecanoic acid,Other,NA
+LC-MS/MS,2-piperidinobenzoic acid,2-piperidinobenzoic acid,Other,NA
+LC-MS/MS,"2-tridecene-4,7-diynal","2-tridecene-4,7-diynal",Other,NA
+LC-MS/MS,"20,26-Dihydroxyecdysone;","20,26-Dihydroxyecdysone",Other,NA
+LC-MS/MS,20-Dihydro 6alpha-methylprednisone,20-Dihydro 6alpha-methylprednisone,Other,NA
+LC-MS/MS,25-Hydroxy-atrotosterone A,25-Hydroxy-atrotosterone A,Other,NA
+LC-MS/MS,26-Deglucoprotodioscin;,26-Deglucoprotodioscin,Other,NA
+LC-MS/MS,27-Norcholestanehexol,27-Norcholestanehexol,Other,NA
+LC-MS/MS,3'-CMP; Cytidine 3'-phosphate;,3'-CMP,Other,NA
+LC-MS/MS,3'-Deoxydihydrostreptomycin;,3'-Deoxydihydrostreptomycin,Other,NA
+LC-MS/MS,3'-Keto-3'-deoxy-AMP;,3'-Keto-3'-deoxy-AMP,Other,NA
+LC-MS/MS,"3,12-diketo-4,6-petromyzonene-24-sulfate","3,12-diketo-4,6-petromyzonene-24-sulfate",Other,NA
+LC-MS/MS,"3,4,5-trihydroxycyclohex-1-ene-1-carboxylic acid","3,4,5-trihydroxycyclohex-1-ene-1-carboxylic acid",Other,NA
+LC-MS/MS,"3,4-MDPA","3,4-MDPA",Other,NA
+LC-MS/MS,"3,4-dimethyl-5-carboxyethyl-2-furanpentanoic acid","3,4-dimethyl-5-carboxyethyl-2-furanpentanoic acid",Other,NA
+LC-MS/MS,"3,5,7-Trimethyl-2E,4E,6E,8E-decatetraene","3,5,7-Trimethyl-2E,4E,6E,8E-decatetraene",Other,NA
+LC-MS/MS,3-(2-thienylmethylidene)chroman-4-one,3-(2-thienylmethylidene)chroman-4-one,Other,NA
+LC-MS/MS,3-Acetamidopropanal;,3-Acetamidopropanal,Other,NA
+LC-MS/MS,3-Butylidene-7-hydroxyphthalide;,3-Butylidene-7-hydroxyphthalide,Other,NA
+LC-MS/MS,3-Dehydro-2-deoxyecdysone;,3-Dehydro-2-deoxyecdysone,Other,NA
+LC-MS/MS,3-Dehydro-4-phospho-L-erythronate;,3-Dehydro-4-phospho-L-erythronate,Other,NA
+LC-MS/MS,3-Dehydro-D-glucose 6-phosphate;,3-Dehydro-D-glucose 6-phosphate,Other,NA
+LC-MS/MS,3-Dehydro-L-gulonate 6-phosphate;,3-Dehydro-L-gulonate 6-phosphate,Other,NA
+LC-MS/MS,3-Deoxyestradiol; 3-Deoxy-17beta-estradiol;,3-Deoxyestradiol,Other,NA
+LC-MS/MS,"3-Hydroxy-2,6-bis(hydroxymethyl)-4H-pyran-4-one","3-Hydroxy-2,6-bis(hydroxymethyl)-4H-pyran-4-one",Other,NA
+LC-MS/MS,3-Hydroxy-3-(methoxycarbonyl)pentanedioic acid,3-Hydroxy-3-(methoxycarbonyl)pentanedioic acid,Other,NA
+LC-MS/MS,3-Hydroxy-3-methylglutaric acid,3-Hydroxy-3-methylglutaric acid,Other,NA
+LC-MS/MS,3-Hydroxybutyric acid,3-Hydroxybutyric acid,Other,NA
+LC-MS/MS,3-Hydroxycinnamic acid,3-Hydroxycinnamic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,3-Hydroxyhexobarbital;,3-Hydroxyhexobarbital,Other,NA
+LC-MS/MS,3-Methyladipic acid,3-Methyladipic acid,Other,NA
+LC-MS/MS,3-Methylcrotonylglycine;,3-Methylcrotonylglycine,Amino acids / Peptides,NA
+LC-MS/MS,3-Phosphonopyruvate;,3-Phosphonopyruvate,Other,NA
+LC-MS/MS,3-[(1-Carboxyvinyl)oxy]benzoic acid,3-[(1-Carboxyvinyl)oxy]benzoic acid,Other,NA
+LC-MS/MS,3-[4-(Trifluoromethoxy)phenyl]acrylic acid,3-[4-(Trifluoromethoxy)phenyl]acrylic acid,Other,NA
+LC-MS/MS,3-amino-octanoic acid,3-amino-octanoic acid,Other,NA
+LC-MS/MS,3-chloro-4-methylquinolin-2-ol,3-chloro-4-methylquinolin-2-ol,Other,NA
+LC-MS/MS,3-methyl-5-carboxypropyl-2-furanpropanoic acid,3-methyl-5-carboxypropyl-2-furanpropanoic acid,Other,NA
+LC-MS/MS,3-oxo-nonadecanoic acid,3-oxo-nonadecanoic acid,Other,NA
+LC-MS/MS,3-tert-Butyl-4-hydroxyanisole,3-tert-Butyl-4-hydroxyanisole,Other,NA
+LC-MS/MS,3-tert-Butyl-5-methylcatechol;,3-tert-Butyl-5-methylcatechol,Other,NA
+LC-MS/MS,3C-P,3C-P,Other,NA
+LC-MS/MS,3beta-Hydroxysteroid-4alpha-carboxylate;,3beta-Hydroxysteroid-4alpha-carboxylate,Other,NA
+LC-MS/MS,4'-Cinnamoylmussatioside;,4'-Cinnamoylmussatioside,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,4'-Methoxy-alpha-ethylaminovalerophenone,4'-Methoxy-alpha-ethylaminovalerophenone,Other,NA
+LC-MS/MS,4'-O-Glucosylvitexin,4'-O-Glucosylvitexin,Other,NA
+LC-MS/MS,4'-Oxolividamine; 3'-Deoxy-4'-oxoparomamine;,4'-Oxolividamine,Other,NA
+LC-MS/MS,"4,10-undecadiynal","4,10-undecadiynal",Other,NA
+LC-MS/MS,"4,4'-Methylenebis(2-chloroaniline)","4,4'-Methylenebis(2-chloroaniline)",Other,NA
+LC-MS/MS,"4,4-Difluoropregn-5-ene-3,20-dione;","4,4-Difluoropregn-5-ene-3,20-dione",Other,NA
+LC-MS/MS,"4,5-(methanoxyethano)isolongifol-4-ene","4,5-(methanoxyethano)isolongifol-4-ene",Other,NA
+LC-MS/MS,"4,5-dichlorophthalamide","4,5-dichlorophthalamide",Other,NA
+LC-MS/MS,4-(Diethylamino)salicylaldehyde,4-(Diethylamino)salicylaldehyde,Hormones / Signals,NA
+LC-MS/MS,"4-Bromo-2,5-DMMA","4-Bromo-2,5-DMMA",Other,NA
+LC-MS/MS,4-Carboxy-2-oxo-3-hexenedioate;,4-Carboxy-2-oxo-3-hexenedioate,Other,NA
+LC-MS/MS,4-Coumaric acid,4-Coumaric acid,Other,NA
+LC-MS/MS,4-Dodecylphenol;,4-Dodecylphenol,Other,NA
+LC-MS/MS,4-Ethoxy ethylbenzoate,4-Ethoxy ethylbenzoate,Other,NA
+LC-MS/MS,4-Fluoro pentedrone,4-Fluoro pentedrone,Other,NA
+LC-MS/MS,4-Guanidino-1-butanol;,4-Guanidino-1-butanol,Other,NA
+LC-MS/MS,4-Hydroxy-3-methylbenzaldehyde;,4-Hydroxy-3-methylbenzaldehyde,Other,NA
+LC-MS/MS,4-Hydroxycoumarin,4-Hydroxycoumarin,Aromatic / Phenylpropanoid,Coumarins
+LC-MS/MS,4-Hydroxylidocaine,4-Hydroxylidocaine,Other,NA
+LC-MS/MS,4-Indolecarbaldehyde,4-Indolecarbaldehyde,Other,NA
+LC-MS/MS,4-Ketomyxol;,4-Ketomyxol,Other,NA
+LC-MS/MS,4-Methoxybenzaldehyde,4-Methoxybenzaldehyde,Other,NA
+LC-MS/MS,4-Methoxysalicylic acid,4-Methoxysalicylic acid,Hormones / Signals,NA
+LC-MS/MS,4-Methyl-2-oxopentanoate; 2-Oxoisocaproate;,4-Methyl-2-oxopentanoate,Other,NA
+LC-MS/MS,4-Methyl-3-oxoadipate;,4-Methyl-3-oxoadipate,Other,NA
+LC-MS/MS,4-Methylumbelliferyl glucuronide,4-Methylumbelliferyl glucuronide,Other,NA
+LC-MS/MS,4-Methylumbelliferyl-alpha-D-glucopyranoside,4-Methylumbelliferyl-alpha-D-glucopyranoside,Other,NA
+LC-MS/MS,4-O-Dimethylallyl-L-tyrosine;,4-O-Dimethylallyl-L-tyrosine,Amino acids / Peptides,NA
+LC-MS/MS,4-O-beta-D-Glucosyl-sinapate;,4-O-beta-D-Glucosyl-sinapate,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,4-[5-(Trifluoromethyl)-1H-pyrazol-3-yl]pyridine,4-[5-(Trifluoromethyl)-1H-pyrazol-3-yl]pyridine,Other,NA
+LC-MS/MS,4-hydroxy-8cis-sphingenine,4-hydroxy-8cis-sphingenine,Other,NA
+LC-MS/MS,"4-methoxy-6-(prop-2-en-1-yl)-2H-1,3-benzodioxole","4-methoxy-6-(prop-2-en-1-yl)-2H-1,3-benzodioxole",Other,NA
+LC-MS/MS,4-oxododecanedioic acid,4-oxododecanedioic acid,Other,NA
+LC-MS/MS,4-tert-Butylcalix[4]arene tetraacetic acid,4-tert-Butylcalix[4]arene tetraacetic acid,Other,NA
+LC-MS/MS,5'-S-Methyl-5'-thioadenosine,5'-S-Methyl-5'-thioadenosine,Other,NA
+LC-MS/MS,"5,6-dihydro-7-oxo-19,20-epoxycytochalasin C","5,6-dihydro-7-oxo-19,20-epoxycytochalasin C",Other,NA
+LC-MS/MS,"5,7,3',4'-Tetrahydroxy-6,8-diprenylisoflavone","5,7,3',4'-Tetrahydroxy-6,8-diprenylisoflavone",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,"5-(isopropylthio)-4-phenyl-4H-1,2,4-triazol-3-ol","5-(isopropylthio)-4-phenyl-4H-1,2,4-triazol-3-ol",Other,NA
+LC-MS/MS,5-Acetylsalicylic acid,5-Acetylsalicylic acid,Hormones / Signals,NA
+LC-MS/MS,5-Chloro NNEI,5-Chloro NNEI,Other,NA
+LC-MS/MS,5-Methoxysalicylic acid,5-Methoxysalicylic acid,Hormones / Signals,NA
+LC-MS/MS,5-Methyl-1-naphthoate;,5-Methyl-1-naphthoate,Other,NA
+LC-MS/MS,5-Methyltetrahydropteroyltri-L-glutamate;,5-Methyltetrahydropteroyltri-L-glutamate,Amino acids / Peptides,NA
+LC-MS/MS,5-O-Methylvisamminol;,5-O-Methylvisamminol,Other,NA
+LC-MS/MS,5-[4-(phenylsulfonyl)phenyl]-1H-pyrazole,5-[4-(phenylsulfonyl)phenyl]-1H-pyrazole,Other,NA
+LC-MS/MS,5-epi-Valiolol 7-phosphate;,5-epi-Valiolol 7-phosphate,Other,NA
+LC-MS/MS,6'''-(3-Hydroxy-3-methylglutaroyl)isoviolanthin,6'''-(3-Hydroxy-3-methylglutaroyl)isoviolanthin,Other,NA
+LC-MS/MS,6''-O-Acetylglycitin,6''-O-Acetylglycitin,Other,NA
+LC-MS/MS,"6,7,4'-Trihydroxyflavanone;","6,7,4'-Trihydroxyflavanone",Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,"6,7-Dimethyl-8-(D-ribityl)lumazine;","6,7-Dimethyl-8-(D-ribityl)lumazine",Other,NA
+LC-MS/MS,6-(Allylthio)purine;,6-(Allylthio)purine,Other,NA
+LC-MS/MS,6-Acetyl-D-glucose;,6-Acetyl-D-glucose,Other,NA
+LC-MS/MS,6-Demethylsterigmatocystin;,6-Demethylsterigmatocystin,Other,NA
+LC-MS/MS,6-Deoxocastasterone;,6-Deoxocastasterone,Other,NA
+LC-MS/MS,6-Deoxyjacareubin;,6-Deoxyjacareubin,Other,NA
+LC-MS/MS,6-Gingerol,6-Gingerol,Other,NA
+LC-MS/MS,6-Hydroxykaempferol 7-(6''-(E)-caffeylglucoside),6-Hydroxykaempferol 7-(6''-(E)-caffeylglucoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,6-Hydroxyluteolin 7-glucoside;,6-Hydroxyluteolin 7-glucoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,"6-Methoxykaempferol 3,7-bis(3-acetylrhamnoside)","6-Methoxykaempferol 3,7-bis(3-acetylrhamnoside)",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,6-Methoxytaxifolin;,6-Methoxytaxifolin,Other,NA
+LC-MS/MS,6-Methylquinoline,6-Methylquinoline,Other,NA
+LC-MS/MS,"6-bromo-24-methyl-pentacosa-5E,9Z-dienoic acid","6-bromo-24-methyl-pentacosa-5E,9Z-dienoic acid",Other,NA
+LC-MS/MS,"6-bromo-pentacosa-5E,9Z-dienoic acid","6-bromo-pentacosa-5E,9Z-dienoic acid",Other,NA
+LC-MS/MS,"6Z-Octene-2,4-diynoic acid","6Z-Octene-2,4-diynoic acid",Other,NA
+LC-MS/MS,6alpha-Glucuronosylhyodeoxycholate;,6alpha-Glucuronosylhyodeoxycholate,Other,NA
+LC-MS/MS,7-Cyano-7-carbaguanine; 7-Cyano-7-deazaguanine;,7-Cyano-7-carbaguanine,Other,NA
+LC-MS/MS,7-Demethylsuberosin,7-Demethylsuberosin,Other,NA
+LC-MS/MS,7-Hydroxycoumarine,7-Hydroxycoumarine,Aromatic / Phenylpropanoid,Coumarins
+LC-MS/MS,7-Hydroxycoumarinyl arachidonate,7-Hydroxycoumarinyl arachidonate,Aromatic / Phenylpropanoid,Coumarins
+LC-MS/MS,7-Methylguanine,7-Methylguanine,Other,NA
+LC-MS/MS,7-Oxoheptanoic acid; 7-Ketoheptanoic acid;,7-Oxoheptanoic acid,Other,NA
+LC-MS/MS,"7-methyl-3-nitroimidazo[1,2-a]pyridine","7-methyl-3-nitroimidazo[1,2-a]pyridine",Other,NA
+LC-MS/MS,"7alpha,12alpha-Dihydroxy-3-oxochol-4-enoate;","7alpha,12alpha-Dihydroxy-3-oxochol-4-enoate",Other,NA
+LC-MS/MS,8-Azaadenosine;,8-Azaadenosine,Other,NA
+LC-MS/MS,8-Demethyl-8-alpha-L-rhamnosyltetracenomycin C;,8-Demethyl-8-alpha-L-rhamnosyltetracenomycin C,Other,NA
+LC-MS/MS,8-Demethyl-8-formylriboflavin 5'-phosphate;,8-Demethyl-8-formylriboflavin 5'-phosphate,Other,NA
+LC-MS/MS,8-Epiiridodial glucoside tetraacetate;,8-Epiiridodial glucoside tetraacetate,Other,NA
+LC-MS/MS,8-Oxoguanine;,8-Oxoguanine,Other,NA
+LC-MS/MS,"8-iso-13,14-dihydro-15-keto Prostaglandin F2?","8-iso-13,14-dihydro-15-keto Prostaglandin F2?",Other,NA
+LC-MS/MS,"9,10-dibromo-stearic acid","9,10-dibromo-stearic acid",Other,NA
+LC-MS/MS,9-Hydroxy-12-oxo-15(Z)-octadecenoic acid;,9-Hydroxy-12-oxo-15(Z)-octadecenoic acid,Other,NA
+LC-MS/MS,9-Nitrooleate,9-Nitrooleate,Other,NA
+LC-MS/MS,"9S,13R-12-Oxophytodienoic acid","9S,13R-12-Oxophytodienoic acid",Other,NA
+LC-MS/MS,ADB-PINACA,ADB-PINACA,Other,NA
+LC-MS/MS,ADB-PINACA pentanoic acid metabolite,ADB-PINACA pentanoic acid metabolite,Other,NA
+LC-MS/MS,ADP; Adenosine 5'-diphosphate;,ADP,Other,NA
+LC-MS/MS,AMCC; N-Acetyl-S-(N-methylcarbamoyl)cysteine;,AMCC,Other,NA
+LC-MS/MS,AMD 070;,AMD 070,Other,NA
+LC-MS/MS,ANH,ANH,Other,NA
+LC-MS/MS,APP-FUBINACA,APP-FUBINACA,Other,NA
+LC-MS/MS,ARN1203,ARN1203,Other,NA
+LC-MS/MS,Acacetin 7-(4'''-acetylrutinoside),Acacetin 7-(4'''-acetylrutinoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Acetanilide,Acetanilide,Other,NA
+LC-MS/MS,Actinonin;,Actinonin,Other,NA
+LC-MS/MS,Adenine,Adenine,Other,NA
+LC-MS/MS,Adenosine,Adenosine,Other,NA
+LC-MS/MS,Adenosine 3'5'-cyclic monophosphate,Adenosine 3'5'-cyclic monophosphate,Other,NA
+LC-MS/MS,Adenosine 5'-monophosphate,Adenosine 5'-monophosphate,Other,NA
+LC-MS/MS,Adipic acid,Adipic acid,Other,NA
+LC-MS/MS,Aflatoxin B1,Aflatoxin B1,Other,NA
+LC-MS/MS,"Aflatoxin B1-endo-8,9-epoxide;","Aflatoxin B1-endo-8,9-epoxide",Other,NA
+LC-MS/MS,Aflatoxin G1,Aflatoxin G1,Other,NA
+LC-MS/MS,Aflatoxin M1,Aflatoxin M1,Other,NA
+LC-MS/MS,Aflatoxin P1; AFP1;,Aflatoxin P1,Other,NA
+LC-MS/MS,Aflatrem;,Aflatrem,Other,NA
+LC-MS/MS,Ageratriol,Ageratriol,Other,NA
+LC-MS/MS,Agnuside,Agnuside,Other,NA
+LC-MS/MS,Ajugol,Ajugol,Other,NA
+LC-MS/MS,Akeboside Std; Akebia saponin C; Cauloside C;,Akeboside Std,Other,NA
+LC-MS/MS,Alanyltyrosine,Alanyltyrosine,Amino acids / Peptides,NA
+LC-MS/MS,Allamandin;,Allamandin,Other,NA
+LC-MS/MS,Allopurinol,Allopurinol,Other,NA
+LC-MS/MS,Alverine,Alverine,Other,NA
+LC-MS/MS,Amaranthin;,Amaranthin,Other,NA
+LC-MS/MS,Amoritin,Amoritin,Other,NA
+LC-MS/MS,Amorphigenin O-glucoside,Amorphigenin O-glucoside,Other,NA
+LC-MS/MS,Anaerobilin;,Anaerobilin,Other,NA
+LC-MS/MS,"Anandamide (18:3, n-3)","Anandamide (18:3, n-3)",Other,NA
+LC-MS/MS,"Anandamide (20:1, n-9)","Anandamide (20:1, n-9)",Other,NA
+LC-MS/MS,Anatibant; LF 16-0687;,Anatibant,Other,NA
+LC-MS/MS,Andrographiside,Andrographiside,Other,NA
+LC-MS/MS,Andrographolide,Andrographolide,Other,NA
+LC-MS/MS,Anhydroecgonine methyl ester,Anhydroecgonine methyl ester,Other,NA
+LC-MS/MS,Aniflorine;,Aniflorine,Other,NA
+LC-MS/MS,Anisomycin;,Anisomycin,Other,NA
+LC-MS/MS,Anthopleurine;,Anthopleurine,Other,NA
+LC-MS/MS,Antiarone K,Antiarone K,Other,NA
+LC-MS/MS,Apigenin,Apigenin,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,"Apigenin 7,4'-diglucuronide","Apigenin 7,4'-diglucuronide",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Apigenin 7-(6''-malonylneohesperidoside),Apigenin 7-(6''-malonylneohesperidoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Apigenin 7-O-glucuronide,Apigenin 7-O-glucuronide,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Apigenin 7-glucuronide-4'-(6''-malonylglucoside),Apigenin 7-glucuronide-4'-(6''-malonylglucoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Apigenin-7-O-beta-D-glucoside,Apigenin-7-O-beta-D-glucoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Apigetrin,Apigetrin,Other,NA
+LC-MS/MS,Aplidiasphingosine,Aplidiasphingosine,Lipids / Membrane,NA
+LC-MS/MS,Arabidopside C,Arabidopside C,Other,NA
+LC-MS/MS,Arachidonic acid,Arachidonic acid,Other,NA
+LC-MS/MS,Arachidonoyl ethanolamide phosphate,Arachidonoyl ethanolamide phosphate,Other,NA
+LC-MS/MS,Aramite;,Aramite,Other,NA
+LC-MS/MS,Arnottin II;,Arnottin II,Other,NA
+LC-MS/MS,Artemisinic acid,Artemisinic acid,Other,NA
+LC-MS/MS,Artemisinin,Artemisinin,Other,NA
+LC-MS/MS,Arvenin II,Arvenin II,Other,NA
+LC-MS/MS,As-PL(14:0/16:0),As-PL(14:0/16:0),Other,NA
+LC-MS/MS,As-PL(16:0/19:0),As-PL(16:0/19:0),Other,NA
+LC-MS/MS,As-PL(17:0/16:0),As-PL(17:0/16:0),Other,NA
+LC-MS/MS,As-PL(20:0/16:0),As-PL(20:0/16:0),Other,NA
+LC-MS/MS,Ascorbyl palmitate,Ascorbyl palmitate,AsA/GSH,NA
+LC-MS/MS,Asparagine,Asparagine,Other,NA
+LC-MS/MS,Asparasaponin II;,Asparasaponin II,Other,NA
+LC-MS/MS,Aspartame,Aspartame,Amino acids / Peptides,NA
+LC-MS/MS,Asperuloside tetraacetate;,Asperuloside tetraacetate,Other,NA
+LC-MS/MS,Asperulosidic acid,Asperulosidic acid,Other,NA
+LC-MS/MS,Aspidin;,Aspidin,Other,NA
+LC-MS/MS,Astilbin,Astilbin,Other,NA
+LC-MS/MS,Atractyloside A,Atractyloside A,Other,NA
+LC-MS/MS,Atractyloside C;,Atractyloside C,Other,NA
+LC-MS/MS,Atractyloside D;,Atractyloside D,Other,NA
+LC-MS/MS,Atractyloside G;,Atractyloside G,Other,NA
+LC-MS/MS,Atractyloside I;,Atractyloside I,Other,NA
+LC-MS/MS,Aucubin,Aucubin,Other,NA
+LC-MS/MS,Aurantio-obtusin beta-D-glucoside;,Aurantio-obtusin beta-D-glucoside,Other,NA
+LC-MS/MS,Auricolic acid,Auricolic acid,Other,NA
+LC-MS/MS,Austrobuxusin K,Austrobuxusin K,Other,NA
+LC-MS/MS,Avermectin A1a monosaccharide;,Avermectin A1a monosaccharide,Other,NA
+LC-MS/MS,Avermectin A1a;,Avermectin A1a,Other,NA
+LC-MS/MS,Avermectin A2b;,Avermectin A2b,Other,NA
+LC-MS/MS,Avermectin B1a monosaccharide;,Avermectin B1a monosaccharide,Other,NA
+LC-MS/MS,Avermectin B1b monosaccharide;,Avermectin B1b monosaccharide,Other,NA
+LC-MS/MS,Avermectin B2a monosaccharide;,Avermectin B2a monosaccharide,Other,NA
+LC-MS/MS,Avermectin B2b;,Avermectin B2b,Other,NA
+LC-MS/MS,Azamethiphos;,Azamethiphos,Other,NA
+LC-MS/MS,Bacillamidin A,Bacillamidin A,Other,NA
+LC-MS/MS,Bacillamidin B,Bacillamidin B,Other,NA
+LC-MS/MS,Baicalin; Baicalein 7-O-glucuronide;,Baicalin,Other,NA
+LC-MS/MS,Barbatoflavan,Barbatoflavan,Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,Bay-K-8644; BayK8644;,Bay-K-8644,Other,NA
+LC-MS/MS,Benthiavalicarb isopropyl;,Benthiavalicarb isopropyl,Other,NA
+LC-MS/MS,Benzofuran;,Benzofuran,Other,NA
+LC-MS/MS,Benzoic acid,Benzoic acid,Other,NA
+LC-MS/MS,Benzoyl peroxide;,Benzoyl peroxide,Other,NA
+LC-MS/MS,Besonprodil,Besonprodil,Other,NA
+LC-MS/MS,Bicyclo prostaglandin E2,Bicyclo prostaglandin E2,Other,NA
+LC-MS/MS,Bidenoside B,Bidenoside B,Other,NA
+LC-MS/MS,Bilobalide,Bilobalide,Other,NA
+LC-MS/MS,Biochanin A;,Biochanin A,Other,NA
+LC-MS/MS,Biocytin,Biocytin,Other,NA
+LC-MS/MS,Biotin,Biotin,Other,NA
+LC-MS/MS,Bis(2-ethylhexyl) amine,Bis(2-ethylhexyl) amine,Other,NA
+LC-MS/MS,Bis(4-ethylbenzylidene)sorbitol,Bis(4-ethylbenzylidene)sorbitol,Other,NA
+LC-MS/MS,Bis(glycerophospho)-glycerol;,Bis(glycerophospho)-glycerol,Lipids / Membrane,NA
+LC-MS/MS,Blinin,Blinin,Other,NA
+LC-MS/MS,Brassylic acid,Brassylic acid,Other,NA
+LC-MS/MS,Brucine;,Brucine,Other,NA
+LC-MS/MS,Buchananine;,Buchananine,Other,NA
+LC-MS/MS,Buprenorphine,Buprenorphine,Other,NA
+LC-MS/MS,Bupropion hydrochloride,Bupropion hydrochloride,Other,NA
+LC-MS/MS,Butyl 3-O-beta-D-glucopyranosyl-butanoate,Butyl 3-O-beta-D-glucopyranosyl-butanoate,Other,NA
+LC-MS/MS,Butylidenephthalide;,Butylidenephthalide,Other,NA
+LC-MS/MS,C16 Sphingosine,C16 Sphingosine,Lipids / Membrane,NA
+LC-MS/MS,C20821; Carbapenem biosynthesis intermediate 6;,C20821,Other,NA
+LC-MS/MS,CB-13,CB-13,Other,NA
+LC-MS/MS,"CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol;","CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol",Lipids / Membrane,NA
+LC-MS/MS,CGP 52608;,CGP 52608,Other,NA
+LC-MS/MS,CI Basic red 9;,CI Basic red 9,Other,NA
+LC-MS/MS,Cadmium chloride;,Cadmium chloride,Other,NA
+LC-MS/MS,Caffeic acid,Caffeic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Caffeoquinone; Caffeic acid quinone;,Caffeoquinone,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Callyspongenol A,Callyspongenol A,Other,NA
+LC-MS/MS,Callystatin A;,Callystatin A,Other,NA
+LC-MS/MS,Calocarpin,Calocarpin,Other,NA
+LC-MS/MS,Cannabidiolic acid,Cannabidiolic acid,Other,NA
+LC-MS/MS,Cannabigerolate; CBGA;,Cannabigerolate,Other,NA
+LC-MS/MS,Caohuoside D,Caohuoside D,Other,NA
+LC-MS/MS,Carbaprostacyclin,Carbaprostacyclin,Other,NA
+LC-MS/MS,Carboxyatractyloside,Carboxyatractyloside,Other,NA
+LC-MS/MS,Carduusyne D,Carduusyne D,Other,NA
+LC-MS/MS,Carmine; Carminic acid;,Carmine,Other,NA
+LC-MS/MS,Carthamidin;,Carthamidin,Other,NA
+LC-MS/MS,Carthamin;,Carthamin,Other,NA
+LC-MS/MS,Caryoptin;,Caryoptin,Other,NA
+LC-MS/MS,Cassiaoccidentalin A,Cassiaoccidentalin A,Other,NA
+LC-MS/MS,Cassiaoccidentalin C,Cassiaoccidentalin C,Other,NA
+LC-MS/MS,Catalposide,Catalposide,Other,NA
+LC-MS/MS,Catechin,Catechin,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Cefepime;,Cefepime,Other,NA
+LC-MS/MS,Cefpirome; HR 810;,Cefpirome,Other,NA
+LC-MS/MS,Cefuroxime;,Cefuroxime,Other,NA
+LC-MS/MS,Cephalothin; Cefalotin;,Cephalothin,Other,NA
+LC-MS/MS,CerP(d18:1/2:0),CerP(d18:1/2:0),Lipids / Membrane,NA
+LC-MS/MS,Chalcomycin;,Chalcomycin,Other,NA
+LC-MS/MS,Chamuvaritin,Chamuvaritin,Other,NA
+LC-MS/MS,Chikusetsusaponin Ib;,Chikusetsusaponin Ib,Other,NA
+LC-MS/MS,Chikusetsusaponin V; Ginsenoside Ro;,Chikusetsusaponin V,Other,NA
+LC-MS/MS,Chivosazole A;,Chivosazole A,Other,NA
+LC-MS/MS,Chlorogenic acid,Chlorogenic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Chlorophyllide b;,Chlorophyllide b,Other,NA
+LC-MS/MS,Chlorpropamide,Chlorpropamide,Other,NA
+LC-MS/MS,Chuanxiongoside A,Chuanxiongoside A,Other,NA
+LC-MS/MS,Chymostatin;,Chymostatin,Other,NA
+LC-MS/MS,Cimimanol A,Cimimanol A,Other,NA
+LC-MS/MS,Cinegalline;,Cinegalline,Other,NA
+LC-MS/MS,Cinnamic acid,Cinnamic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Cinnamodial;,Cinnamodial,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Cinnamyl alcohol,Cinnamyl alcohol,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Cinnarizine,Cinnarizine,Other,NA
+LC-MS/MS,Cinncassiol A;,Cinncassiol A,Other,NA
+LC-MS/MS,Cissoic acid,Cissoic acid,Other,NA
+LC-MS/MS,Citraconic acid,Citraconic acid,Other,NA
+LC-MS/MS,Citreorosein; omega-Hydroxyemodin;,Citreorosein,Other,NA
+LC-MS/MS,Citric acid,Citric acid,Other,NA
+LC-MS/MS,Citroflex 2,Citroflex 2,Other,NA
+LC-MS/MS,Clobazam,Clobazam,Other,NA
+LC-MS/MS,Clofentezine;,Clofentezine,Other,NA
+LC-MS/MS,Cnidioside A,Cnidioside A,Other,NA
+LC-MS/MS,Coenzyme F420-1;,Coenzyme F420-1,Other,NA
+LC-MS/MS,Coixinden B;,Coixinden B,Other,NA
+LC-MS/MS,Colocynthenin E,Colocynthenin E,Other,NA
+LC-MS/MS,Commendamide,Commendamide,Other,NA
+LC-MS/MS,Compactin diol lactone; ML-236A;,Compactin diol lactone,Other,NA
+LC-MS/MS,Complanatuside,Complanatuside,Other,NA
+LC-MS/MS,Condurango glycoside C;,Condurango glycoside C,Other,NA
+LC-MS/MS,Coniferin;,Coniferin,Other,NA
+LC-MS/MS,Convallatoxin,Convallatoxin,Other,NA
+LC-MS/MS,Convalloside;,Convalloside,Other,NA
+LC-MS/MS,Corchorifatty acid F,Corchorifatty acid F,Other,NA
+LC-MS/MS,Cortisol,Cortisol,Other,NA
+LC-MS/MS,Cortolone;,Cortolone,Other,NA
+LC-MS/MS,Coumarin,Coumarin,Aromatic / Phenylpropanoid,Coumarins
+LC-MS/MS,Coumatetralyl;,Coumatetralyl,Other,NA
+LC-MS/MS,Crenatine A;,Crenatine A,Other,NA
+LC-MS/MS,Crotamiton,Crotamiton,Other,NA
+LC-MS/MS,Crotetamide,Crotetamide,Other,NA
+LC-MS/MS,Curcumin diglucoside;,Curcumin diglucoside,Other,NA
+LC-MS/MS,Curcumin monoglucoside;,Curcumin monoglucoside,Other,NA
+LC-MS/MS,Cyanidin 3-glucoside 5-caffeoylglucoside;,Cyanidin 3-glucoside 5-caffeoylglucoside,Aromatic / Phenylpropanoid,Anthocyanins
+LC-MS/MS,Cyanidin-3-O-glucoside chloride,Cyanidin-3-O-glucoside chloride,Aromatic / Phenylpropanoid,Anthocyanins
+LC-MS/MS,Cyclohexyl phenyl ketone,Cyclohexyl phenyl ketone,Other,NA
+LC-MS/MS,Cynaroside,Cynaroside,Other,NA
+LC-MS/MS,Cytochalasin D,Cytochalasin D,Other,NA
+LC-MS/MS,D-(+)-Galactose,D-(+)-Galactose,Other,NA
+LC-MS/MS,D-(+)-Maltose,D-(+)-Maltose,Other,NA
+LC-MS/MS,D-(+)-Mannose,D-(+)-Mannose,Other,NA
+LC-MS/MS,D-(+)-Trehalose,D-(+)-Trehalose,Other,NA
+LC-MS/MS,D-(-)-Glutamine,D-(-)-Glutamine,Amino acids / Peptides,NA
+LC-MS/MS,D-(-)-Quinic acid,D-(-)-Quinic acid,Other,NA
+LC-MS/MS,D-Allothreonine; D-allo-Threonine;,D-Allothreonine,Other,NA
+LC-MS/MS,D-Erythritol 1-phosphate;,D-Erythritol 1-phosphate,Other,NA
+LC-MS/MS,D-Erythronic acid,D-Erythronic acid,Other,NA
+LC-MS/MS,D-Glucosylsphingosine;,D-Glucosylsphingosine,Lipids / Membrane,NA
+LC-MS/MS,D-Mannose 6-phosphate,D-Mannose 6-phosphate,Other,NA
+LC-MS/MS,D-Sedoheptulose 7-phosphate,D-Sedoheptulose 7-phosphate,Other,NA
+LC-MS/MS,D-Sphingosine,D-Sphingosine,Lipids / Membrane,NA
+LC-MS/MS,D-Threose; D-threo-Tetrose;,D-Threose,Other,NA
+LC-MS/MS,D-alpha-Hydroxyglutaric acid,D-alpha-Hydroxyglutaric acid,Other,NA
+LC-MS/MS,"D-glycero-beta-D-manno-Heptose 1,7-bisphosphate;","D-glycero-beta-D-manno-Heptose 1,7-bisphosphate",Lipids / Membrane,NA
+LC-MS/MS,"D-myo-Inositol 1,4-bisphosphate","D-myo-Inositol 1,4-bisphosphate",Other,NA
+LC-MS/MS,"DG(18:4(6Z,9Z,12Z,15Z)/18:2(9Z,12Z)/0:0)[iso2]","DG(18:4(6Z,9Z,12Z,15Z)/18:2(9Z,12Z)/0:0)[iso2]",Lipids / Membrane,NA
+LC-MS/MS,"DG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/0:0)","DG(18:4(6Z,9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z)/0:0)",Lipids / Membrane,NA
+LC-MS/MS,"DGMG(18:4(6Z,9Z,12Z,15Z)/0:0)","DGMG(18:4(6Z,9Z,12Z,15Z)/0:0)",Other,NA
+LC-MS/MS,"DGMG(18:5(3Z,6Z,9Z,12Z,15Z)/0:0)","DGMG(18:5(3Z,6Z,9Z,12Z,15Z)/0:0)",Other,NA
+LC-MS/MS,DL-Glutamine,DL-Glutamine,Amino acids / Peptides,NA
+LC-MS/MS,DL-Norleucine,DL-Norleucine,Amino acids / Peptides,NA
+LC-MS/MS,DL-Tryptophan,DL-Tryptophan,Amino acids / Peptides,NA
+LC-MS/MS,DL-beta-Leucine,DL-beta-Leucine,Amino acids / Peptides,NA
+LC-MS/MS,DLK,DLK,Other,NA
+LC-MS/MS,DQH,DQH,Other,NA
+LC-MS/MS,Dalpanin;,Dalpanin,Other,NA
+LC-MS/MS,Dalpanol O-glucoside,Dalpanol O-glucoside,Other,NA
+LC-MS/MS,Daumone-2,Daumone-2,Other,NA
+LC-MS/MS,Dauricine,Dauricine,Other,NA
+LC-MS/MS,Davallioside A,Davallioside A,Other,NA
+LC-MS/MS,Deacetyl-19-epi-cytochalasin P1,Deacetyl-19-epi-cytochalasin P1,Other,NA
+LC-MS/MS,Dehydroascorbic acid,Dehydroascorbic acid,AsA/GSH,NA
+LC-MS/MS,Deidaclin; NSC 370273;,Deidaclin,Other,NA
+LC-MS/MS,Delcosine;,Delcosine,Other,NA
+LC-MS/MS,Demethylsulochrin;,Demethylsulochrin,Other,NA
+LC-MS/MS,Demeton-S-methyl;,Demeton-S-methyl,Other,NA
+LC-MS/MS,Demeton-S-methylsulphon,Demeton-S-methylsulphon,Other,NA
+LC-MS/MS,Deoxyshikonin;,Deoxyshikonin,Other,NA
+LC-MS/MS,Deslanoside;,Deslanoside,Other,NA
+LC-MS/MS,Deutzioside;,Deutzioside,Other,NA
+LC-MS/MS,Di-n-propylphthalate; Dipropyl phthalate;,Di-n-propylphthalate,Other,NA
+LC-MS/MS,Diadinoxanthin; Diadinoxanthin A;,Diadinoxanthin,Antioxidants,Carotenoids (xanthophylls)
+LC-MS/MS,Dianoside A;,Dianoside A,Other,NA
+LC-MS/MS,Dichlorphenamide,Dichlorphenamide,Other,NA
+LC-MS/MS,Diclazepam,Diclazepam,Other,NA
+LC-MS/MS,Diclofenac,Diclofenac,Other,NA
+LC-MS/MS,Dicyclopentadiene;,Dicyclopentadiene,Other,NA
+LC-MS/MS,Diethyl acetylsuccinate,Diethyl acetylsuccinate,Other,NA
+LC-MS/MS,Difenacoum;,Difenacoum,Other,NA
+LC-MS/MS,Diflunisal;,Diflunisal,Other,NA
+LC-MS/MS,Digoxin,Digoxin,Other,NA
+LC-MS/MS,Dihydroalbocycline;,Dihydroalbocycline,Other,NA
+LC-MS/MS,Dihydrocapsaicin;,Dihydrocapsaicin,Other,NA
+LC-MS/MS,Dihydrocoumarin,Dihydrocoumarin,Aromatic / Phenylpropanoid,Coumarins
+LC-MS/MS,Dihydrodemethylsterigmatocystin; DHDMST;,Dihydrodemethylsterigmatocystin,Other,NA
+LC-MS/MS,Dihydromethysticin,Dihydromethysticin,Other,NA
+LC-MS/MS,Dihydromonacolin L;,Dihydromonacolin L,Other,NA
+LC-MS/MS,Dihydrophaseic acid; (-)-Dihydrophaseic acid;,Dihydrophaseic acid,Other,NA
+LC-MS/MS,Dihydrotanshinone I,Dihydrotanshinone I,Other,NA
+LC-MS/MS,Dillenetin 5-glucoside-7-glucuronide,Dillenetin 5-glucoside-7-glucuronide,Other,NA
+LC-MS/MS,Dimethamine;,Dimethamine,Other,NA
+LC-MS/MS,Dinitrocarbanilide,Dinitrocarbanilide,Other,NA
+LC-MS/MS,Dioscorine;,Dioscorine,Other,NA
+LC-MS/MS,Diosgenin glucoside,Diosgenin glucoside,Other,NA
+LC-MS/MS,Diosmetin,Diosmetin,Other,NA
+LC-MS/MS,Diosmetin-7-O-beta-D-glucopyranoside,Diosmetin-7-O-beta-D-glucopyranoside,Other,NA
+LC-MS/MS,Diprenorphine;,Diprenorphine,Other,NA
+LC-MS/MS,Disulfoton; Ethylthiometon;,Disulfoton,Other,NA
+LC-MS/MS,"Docosanediol-1,14-disulfate","Docosanediol-1,14-disulfate",Other,NA
+LC-MS/MS,Dodecanedioic acid,Dodecanedioic acid,Other,NA
+LC-MS/MS,Doxefazepam;,Doxefazepam,Other,NA
+LC-MS/MS,Drofenine,Drofenine,Other,NA
+LC-MS/MS,ELK,ELK,Other,NA
+LC-MS/MS,ENH,ENH,Other,NA
+LC-MS/MS,EPH,EPH,Other,NA
+LC-MS/MS,Echitovenine;,Echitovenine,Other,NA
+LC-MS/MS,Eicosanoyl-EA,Eicosanoyl-EA,Other,NA
+LC-MS/MS,Elzasonan,Elzasonan,Other,NA
+LC-MS/MS,Entadamide A;,Entadamide A,Other,NA
+LC-MS/MS,Epicatechin 5-O-beta-D-glucopyranoside-3-benzoate,Epicatechin 5-O-beta-D-glucopyranoside-3-benzoate,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Epithienamycin F;,Epithienamycin F,Other,NA
+LC-MS/MS,Epothilone D; Desoxyepothilone b;,Epothilone D,Other,NA
+LC-MS/MS,Epoxypheophorbide a;,Epoxypheophorbide a,Other,NA
+LC-MS/MS,Eriodictyol,Eriodictyol,Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,Eriojaposide B;,Eriojaposide B,Other,NA
+LC-MS/MS,Erosenone,Erosenone,Other,NA
+LC-MS/MS,Erythromycin D;,Erythromycin D,Other,NA
+LC-MS/MS,Esculetin,Esculetin,Other,NA
+LC-MS/MS,Esculin,Esculin,Other,NA
+LC-MS/MS,Estriol 3-sulfate 16-glucuronide,Estriol 3-sulfate 16-glucuronide,Other,NA
+LC-MS/MS,Ethoate-methyl;,Ethoate-methyl,Other,NA
+LC-MS/MS,Ethyl paraben,Ethyl paraben,Other,NA
+LC-MS/MS,Ethylendiamine dihydroiodide; EDDI;,Ethylendiamine dihydroiodide,Other,NA
+LC-MS/MS,Ethylmalonic acid,Ethylmalonic acid,Other,NA
+LC-MS/MS,Etoposide,Etoposide,Other,NA
+LC-MS/MS,F4-Neuroprostane (7-series);,F4-Neuroprostane (7-series),Other,NA
+LC-MS/MS,FAD; Flavin adenine dinucleotide;,FAD,Other,NA
+LC-MS/MS,FAHFA(14:1(7Z)1/3-O-10:0),FAHFA(14:1(7Z)1/3-O-10:0),Other,NA
+LC-MS/MS,Fagaramide;,Fagaramide,Other,NA
+LC-MS/MS,Fe-coproporphyrin III; Coproheme III;,Fe-coproporphyrin III,Other,NA
+LC-MS/MS,Ferimzone; (Z)-Ferimzone;,Ferimzone,Other,NA
+LC-MS/MS,Ferroxamine; Ferrioxamine; Desferal-iron(III);,Ferroxamine,Other,NA
+LC-MS/MS,Ferulaldehyde,Ferulaldehyde,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Ferulic acid,Ferulic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Feruloylputrescine; Subaphyllin;,Feruloylputrescine,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Fisetin,Fisetin,Other,NA
+LC-MS/MS,Flavin mononucleotide (FMN),Flavin mononucleotide (FMN),Other,NA
+LC-MS/MS,Flavonol 7-O-beta-D-glucoside;,Flavonol 7-O-beta-D-glucoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Fluo-3;,Fluo-3,Other,NA
+LC-MS/MS,Fluocinolone;,Fluocinolone,Other,NA
+LC-MS/MS,Flupyrsulfuron-methyl sodium;,Flupyrsulfuron-methyl sodium,Other,NA
+LC-MS/MS,Fluspirilene,Fluspirilene,Other,NA
+LC-MS/MS,Fluvalinate;,Fluvalinate,Other,NA
+LC-MS/MS,Formononetin 7-O-(6''-acetylglcoside),Formononetin 7-O-(6''-acetylglcoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Formononetin 7-O-rutinoside,Formononetin 7-O-rutinoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Formoterol;,Formoterol,Other,NA
+LC-MS/MS,Forsythoside E,Forsythoside E,Other,NA
+LC-MS/MS,Fraxinellone,Fraxinellone,Other,NA
+LC-MS/MS,Frullanolide;,Frullanolide,Other,NA
+LC-MS/MS,Fulvyne B,Fulvyne B,Other,NA
+LC-MS/MS,Fulvyne D,Fulvyne D,Other,NA
+LC-MS/MS,Fumaric acid,Fumaric acid,Other,NA
+LC-MS/MS,Fumiquinazoline F;,Fumiquinazoline F,Other,NA
+LC-MS/MS,GNH,GNH,Other,NA
+LC-MS/MS,GPH,GPH,Other,NA
+LC-MS/MS,"Gabaculine; 3-Amino-2,3-dihydrobenzoic acid;",Gabaculine,Amino acids / Peptides,NA
+LC-MS/MS,Galactonic acid,Galactonic acid,Other,NA
+LC-MS/MS,Gallicynoic acid B,Gallicynoic acid B,Other,NA
+LC-MS/MS,Gallocatechin-(4alpha->8)-epigallocatechin;,Gallocatechin-(4alpha->8)-epigallocatechin,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Gambiriin B3;,Gambiriin B3,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Gambiriin C; Epiafzelechin-(4beta->8)-catechin;,Gambiriin C,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Ganoderic acid C6,Ganoderic acid C6,Other,NA
+LC-MS/MS,Garcinia acid,Garcinia acid,Other,NA
+LC-MS/MS,Geniposide,Geniposide,Other,NA
+LC-MS/MS,Genistein 4'-O-glucuronide,Genistein 4'-O-glucuronide,Other,NA
+LC-MS/MS,Gentiopicrin,Gentiopicrin,Other,NA
+LC-MS/MS,Geranylgeranyl bacteriochlorophyllide a;,Geranylgeranyl bacteriochlorophyllide a,Other,NA
+LC-MS/MS,Gericudranins A,Gericudranins A,Other,NA
+LC-MS/MS,Gibberellin 2-O-beta-D-glucoside;,Gibberellin 2-O-beta-D-glucoside,Hormones / Signals,NA
+LC-MS/MS,Gibberellin A15 open lactone;,Gibberellin A15 open lactone,Hormones / Signals,NA
+LC-MS/MS,Gingerglycolipid A,Gingerglycolipid A,Other,NA
+LC-MS/MS,Ginkgolide B,Ginkgolide B,Other,NA
+LC-MS/MS,Gitoxin; Gitoxigenin 3-O-tridigitoxoside;,Gitoxin,Other,NA
+LC-MS/MS,Glucofrangulin A;,Glucofrangulin A,Other,NA
+LC-MS/MS,Glucofrangulin B;,Glucofrangulin B,Other,NA
+LC-MS/MS,Gluconic acid,Gluconic acid,Other,NA
+LC-MS/MS,Glucoscilliroside,Glucoscilliroside,Other,NA
+LC-MS/MS,Glucose 1-phosphate,Glucose 1-phosphate,Other,NA
+LC-MS/MS,Glucoselysine-6-phosphate;,Glucoselysine-6-phosphate,Amino acids / Peptides,NA
+LC-MS/MS,Glucovanillin;,Glucovanillin,Other,NA
+LC-MS/MS,Glutaric acid,Glutaric acid,Other,NA
+LC-MS/MS,Glutaric anhydride,Glutaric anhydride,Other,NA
+LC-MS/MS,Glycerol 3-phosphate,Glycerol 3-phosphate,Lipids / Membrane,NA
+LC-MS/MS,Glycerophospho-N-palmitoyl ethanolamine,Glycerophospho-N-palmitoyl ethanolamine,Lipids / Membrane,NA
+LC-MS/MS,Glycerophosphoglycerol;,Glycerophosphoglycerol,Lipids / Membrane,NA
+LC-MS/MS,Glyceryl tri(2-ethylhexanoate);,Glyceryl tri(2-ethylhexanoate),Lipids / Membrane,NA
+LC-MS/MS,Glycidyl stearate;,Glycidyl stearate,Other,NA
+LC-MS/MS,Glycyl-L-leucine,Glycyl-L-leucine,Amino acids / Peptides,NA
+LC-MS/MS,Glycyl-L-tyrosine,Glycyl-L-tyrosine,Amino acids / Peptides,NA
+LC-MS/MS,Goniocin,Goniocin,Other,NA
+LC-MS/MS,Gossypetin 8-glucuronide,Gossypetin 8-glucuronide,Other,NA
+LC-MS/MS,Gracillin;,Gracillin,Other,NA
+LC-MS/MS,Graminiliatrin;,Graminiliatrin,Other,NA
+LC-MS/MS,Grandidentatin;,Grandidentatin,Other,NA
+LC-MS/MS,Granisetron;,Granisetron,Other,NA
+LC-MS/MS,Graphinone; Ovalicin;,Graphinone,Other,NA
+LC-MS/MS,Grayanotoxin I; Rhodotoxine;,Grayanotoxin I,Other,NA
+LC-MS/MS,Guanine,Guanine,Other,NA
+LC-MS/MS,Guanosine,Guanosine,Other,NA
+LC-MS/MS,Guanosine monophosphate (GMP),Guanosine monophosphate (GMP),Other,NA
+LC-MS/MS,HC-toxin;,HC-toxin,Other,NA
+LC-MS/MS,Handelin,Handelin,Other,NA
+LC-MS/MS,Handelin;,Handelin,Other,NA
+LC-MS/MS,Haploside A,Haploside A,Other,NA
+LC-MS/MS,Haploside D,Haploside D,Other,NA
+LC-MS/MS,Haploside F,Haploside F,Other,NA
+LC-MS/MS,Harderoheme III;,Harderoheme III,Other,NA
+LC-MS/MS,Harpagoside;,Harpagoside,Other,NA
+LC-MS/MS,Helicid,Helicid,Other,NA
+LC-MS/MS,Heptanophenone,Heptanophenone,Other,NA
+LC-MS/MS,"Herbacetin 8,4'-dixyloside","Herbacetin 8,4'-dixyloside",Other,NA
+LC-MS/MS,Herniarin; 7-Methoxycoumarin;,Herniarin,Other,NA
+LC-MS/MS,Hesperetin,Hesperetin,Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,Hesperetin 7-O-glucoside;,Hesperetin 7-O-glucoside,Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,Hesperidin,Hesperidin,Other,NA
+LC-MS/MS,Heterocladol;,Heterocladol,Other,NA
+LC-MS/MS,Hexanoylglycine,Hexanoylglycine,Amino acids / Peptides,NA
+LC-MS/MS,Hispidulin 7-(6''-E-p-Coumaroylglucoside),Hispidulin 7-(6''-E-p-Coumaroylglucoside),Other,NA
+LC-MS/MS,Homoeriodictyol chalcone;,Homoeriodictyol chalcone,Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,Homomethionine; L-Homomethionine;,Homomethionine,Amino acids / Peptides,NA
+LC-MS/MS,Homoorientin,Homoorientin,Other,NA
+LC-MS/MS,Homoplantaginin,Homoplantaginin,Other,NA
+LC-MS/MS,Hordatine B;,Hordatine B,Other,NA
+LC-MS/MS,Hydroxyacetildenafil,Hydroxyacetildenafil,Other,NA
+LC-MS/MS,Hydroxyecdysone,Hydroxyecdysone,Other,NA
+LC-MS/MS,Hydroxygenkwanin,Hydroxygenkwanin,Other,NA
+LC-MS/MS,Hymenocardine;,Hymenocardine,Other,NA
+LC-MS/MS,Hypaconitine;,Hypaconitine,Other,NA
+LC-MS/MS,IPH,IPH,Other,NA
+LC-MS/MS,IRH,IRH,Other,NA
+LC-MS/MS,Icaceine;,Icaceine,Other,NA
+LC-MS/MS,Icariin;,Icariin,Other,NA
+LC-MS/MS,Ikarisoside F,Ikarisoside F,Other,NA
+LC-MS/MS,Imazalil nitrate;,Imazalil nitrate,Other,NA
+LC-MS/MS,Imibenconazole;,Imibenconazole,Other,NA
+LC-MS/MS,Iminodiacetate;,Iminodiacetate,Other,NA
+LC-MS/MS,Indole-3-acetyl-L-aspartic acid,Indole-3-acetyl-L-aspartic acid,Amino acids / Peptides,NA
+LC-MS/MS,Indole-3-acrylic acid,Indole-3-acrylic acid,Other,NA
+LC-MS/MS,Inosine,Inosine,Other,NA
+LC-MS/MS,Inosine-5'-monophosphate (IMP),Inosine-5'-monophosphate (IMP),Other,NA
+LC-MS/MS,Irbesartan,Irbesartan,Other,NA
+LC-MS/MS,Iresinin I;,Iresinin I,Other,NA
+LC-MS/MS,Iridin;,Iridin,Other,NA
+LC-MS/MS,Isobavachin,Isobavachin,Other,NA
+LC-MS/MS,Isobutyl 2-furanpropionate,Isobutyl 2-furanpropionate,Other,NA
+LC-MS/MS,Isoferulic acid,Isoferulic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Isofraxidin,Isofraxidin,Other,NA
+LC-MS/MS,Isoguanosine; Crotonoside;,Isoguanosine,Other,NA
+LC-MS/MS,"Isoorientin 3',6''-di-O-glucoside","Isoorientin 3',6''-di-O-glucoside",Other,NA
+LC-MS/MS,Isopropamide;,Isopropamide,Other,NA
+LC-MS/MS,Isorhamnetin,Isorhamnetin,Other,NA
+LC-MS/MS,Isorhamnetin 3- (6''-p-coumarylglucoside),Isorhamnetin 3- (6''-p-coumarylglucoside),Other,NA
+LC-MS/MS,Isorhamnetin 3-(3'''-ferulylrobinobioside),Isorhamnetin 3-(3'''-ferulylrobinobioside),Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Isorhapontigenin,Isorhapontigenin,Other,NA
+LC-MS/MS,Isoschaftoside,Isoschaftoside,Other,NA
+LC-MS/MS,Isoscoparin 2''-(6-(E)-p-coumaroylglucoside),Isoscoparin 2''-(6-(E)-p-coumaroylglucoside),Other,NA
+LC-MS/MS,Isospinosin;,Isospinosin,Other,NA
+LC-MS/MS,Isovitexin,Isovitexin,Other,NA
+LC-MS/MS,Isovitexin 4'-O-glucoside 2''-O-(E)-ferulate,Isovitexin 4'-O-glucoside 2''-O-(E)-ferulate,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Istamycin KL1;,Istamycin KL1,Other,NA
+LC-MS/MS,Jacaglabroside B,Jacaglabroside B,Other,NA
+LC-MS/MS,Jasmolin II;,Jasmolin II,Other,NA
+LC-MS/MS,Jionoside B1;,Jionoside B1,Other,NA
+LC-MS/MS,Juglalin,Juglalin,Other,NA
+LC-MS/MS,Jujuboside B;,Jujuboside B,Other,NA
+LC-MS/MS,KMH,KMH,Other,NA
+LC-MS/MS,Kaempferitrin,Kaempferitrin,Other,NA
+LC-MS/MS,Kaempferol 3-(6G-malonylneohesperidoside),Kaempferol 3-(6G-malonylneohesperidoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Kaempferol 3-O-beta-D-xyloside;,Kaempferol 3-O-beta-D-xyloside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Kaempferol 3-gentiobioside-7-rhamnoside,Kaempferol 3-gentiobioside-7-rhamnoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Kakuol; Kakoul;,Kakuol,Other,NA
+LC-MS/MS,Kanokoside B; Suspensolide F;,Kanokoside B,Other,NA
+LC-MS/MS,Kasugamycin;,Kasugamycin,Other,NA
+LC-MS/MS,Ketamine,Ketamine,Other,NA
+LC-MS/MS,Kinoprene;,Kinoprene,Other,NA
+LC-MS/MS,Kurilensoside I,Kurilensoside I,Other,NA
+LC-MS/MS,L-(-)-Malic acid,L-(-)-Malic acid,Other,NA
+LC-MS/MS,L-(-)-Methionine,L-(-)-Methionine,Amino acids / Peptides,NA
+LC-MS/MS,"L-Arabino-1,4-lactone 5-phosphate;","L-Arabino-1,4-lactone 5-phosphate",Other,NA
+LC-MS/MS,L-Aspartic acid,L-Aspartic acid,Amino acids / Peptides,NA
+LC-MS/MS,L-Dihydroanticapsin;,L-Dihydroanticapsin,Other,NA
+LC-MS/MS,L-Erythrulose 4-phosphate;,L-Erythrulose 4-phosphate,Other,NA
+LC-MS/MS,L-Glutamic acid,L-Glutamic acid,Amino acids / Peptides,NA
+LC-MS/MS,L-Glutathione (reduced),L-Glutathione (reduced),AsA/GSH,NA
+LC-MS/MS,L-Phenylalanine,L-Phenylalanine,Amino acids / Peptides,NA
+LC-MS/MS,L-Pyroglutamic acid,L-Pyroglutamic acid,Amino acids / Peptides,NA
+LC-MS/MS,L-Threonic acid,L-Threonic acid,AsA/GSH,NA
+LC-MS/MS,L-Tryptophan,L-Tryptophan,Amino acids / Peptides,NA
+LC-MS/MS,L-Tyrosine,L-Tyrosine,Amino acids / Peptides,NA
+LC-MS/MS,L-beta-Ethynylserine;,L-beta-Ethynylserine,Amino acids / Peptides,NA
+LC-MS/MS,L-threo-3-Phenylserine;,L-threo-3-Phenylserine,Amino acids / Peptides,NA
+LC-MS/MS,LIPID_MAPS_STRUCTURE_DATABASE,LIPID_MAPS_STRUCTURE_DATABASE,Other,NA
+LC-MS/MS,LMGP10050039,LMGP10050039,Other,NA
+LC-MS/MS,LMPK09000029,LMPK09000029,Other,NA
+LC-MS/MS,LMPK12010137,LMPK12010137,Other,NA
+LC-MS/MS,LMPK12010265,LMPK12010265,Other,NA
+LC-MS/MS,LMPK12010317,LMPK12010317,Other,NA
+LC-MS/MS,LMPK12010343,LMPK12010343,Other,NA
+LC-MS/MS,LMPK12111409,LMPK12111409,Other,NA
+LC-MS/MS,LMPK12112942,LMPK12112942,Other,NA
+LC-MS/MS,LMPK12113373,LMPK12113373,Other,NA
+LC-MS/MS,LMPK12120326,LMPK12120326,Other,NA
+LC-MS/MS,LMPK12120366,LMPK12120366,Other,NA
+LC-MS/MS,LMPK12140094,LMPK12140094,Other,NA
+LC-MS/MS,LMPK12140388,LMPK12140388,Other,NA
+LC-MS/MS,LMPR0106150046,LMPR0106150046,Other,NA
+LC-MS/MS,LMST01010329,LMST01010329,Other,NA
+LC-MS/MS,LMST01060024,LMST01060024,Other,NA
+LC-MS/MS,LMST01080059,LMST01080059,Other,NA
+LC-MS/MS,LMST04060001,LMST04060001,Other,NA
+LC-MS/MS,LMST05010036,LMST05010036,Other,NA
+LC-MS/MS,LNH,LNH,Other,NA
+LC-MS/MS,LPK,LPK,Other,NA
+LC-MS/MS,Lamotrigine,Lamotrigine,Other,NA
+LC-MS/MS,Lamtidine;,Lamtidine,Other,NA
+LC-MS/MS,Landomycin J;,Landomycin J,Other,NA
+LC-MS/MS,Lariciresinol 4-O-glucoside,Lariciresinol 4-O-glucoside,Other,NA
+LC-MS/MS,Lawsone;,Lawsone,Other,NA
+LC-MS/MS,Leinamycin;,Leinamycin,Other,NA
+LC-MS/MS,Leu-Gly-Pro;,Leu-Gly-Pro,Other,NA
+LC-MS/MS,Leucine,Leucine,Amino acids / Peptides,NA
+LC-MS/MS,Leucocholic Acid,Leucocholic Acid,Other,NA
+LC-MS/MS,Leucoside,Leucoside,Other,NA
+LC-MS/MS,Leucyl-leucine;,Leucyl-leucine,Amino acids / Peptides,NA
+LC-MS/MS,Leucyl-leucyl-norleucine;,Leucyl-leucyl-norleucine,Amino acids / Peptides,NA
+LC-MS/MS,Leucylproline,Leucylproline,Amino acids / Peptides,NA
+LC-MS/MS,Leukotriene D4,Leukotriene D4,Other,NA
+LC-MS/MS,Leupeptin;,Leupeptin,Other,NA
+LC-MS/MS,Levulinic acid,Levulinic acid,Other,NA
+LC-MS/MS,Ligustilide,Ligustilide,Other,NA
+LC-MS/MS,Limocitrol 3-neohesperidoside,Limocitrol 3-neohesperidoside,Other,NA
+LC-MS/MS,Limonin,Limonin,Other,NA
+LC-MS/MS,Limonoate A-ring-lactone;,Limonoate A-ring-lactone,Other,NA
+LC-MS/MS,Linckoside E,Linckoside E,Other,NA
+LC-MS/MS,Linckoside K,Linckoside K,Other,NA
+LC-MS/MS,Linolipin B,Linolipin B,Other,NA
+LC-MS/MS,Linolipin H,Linolipin H,Other,NA
+LC-MS/MS,Litchioside C,Litchioside C,Other,NA
+LC-MS/MS,Loganin pentaacetate;,Loganin pentaacetate,Other,NA
+LC-MS/MS,Longichalasin B,Longichalasin B,Other,NA
+LC-MS/MS,Loperamide;,Loperamide,Other,NA
+LC-MS/MS,Lotusine; (-)-Lotusine; D-(-)-Lotusine;,Lotusine,Other,NA
+LC-MS/MS,Lovastatin acid; Mevinolinic acid;,Lovastatin acid,Other,NA
+LC-MS/MS,Lunularic acid;,Lunularic acid,Other,NA
+LC-MS/MS,Lusitanicoside;,Lusitanicoside,Other,NA
+LC-MS/MS,Luteolin,Luteolin,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Luteolin 7-(3'''-acetylapiosyl-(1->2)-xyloside),Luteolin 7-(3'''-acetylapiosyl-(1->2)-xyloside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Luteolin 7-O-(6''-malonylglucoside);,Luteolin 7-O-(6''-malonylglucoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,"Luteolin-3',7-Diglucoside","Luteolin-3',7-Diglucoside",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Lycocernuine;,Lycocernuine,Lipids / Membrane,NA
+LC-MS/MS,MAB-CHMINACA-d4,MAB-CHMINACA-d4,Other,NA
+LC-MS/MS,"MC-207,110;","MC-207,110",Other,NA
+LC-MS/MS,MDPV,MDPV,Other,NA
+LC-MS/MS,"MGDG(16:3(7Z,10Z,13Z)/20:5(5Z,8Z,11Z,14Z,17Z))","MGDG(16:3(7Z,10Z,13Z)/20:5(5Z,8Z,11Z,14Z,17Z))",Lipids / Membrane,NA
+LC-MS/MS,"MGDG(18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))","MGDG(18:3(9Z,12Z,15Z)/18:4(6Z,9Z,12Z,15Z))",Lipids / Membrane,NA
+LC-MS/MS,MGDG-bis-9-OH-traumatin,MGDG-bis-9-OH-traumatin,Lipids / Membrane,NA
+LC-MS/MS,"MGMG(16:2(7Z,10Z)/0:0)","MGMG(16:2(7Z,10Z)/0:0)",Other,NA
+LC-MS/MS,"MGMG(16:3(7Z,10Z,13Z)/0:0)","MGMG(16:3(7Z,10Z,13Z)/0:0)",Other,NA
+LC-MS/MS,MGMG(18:4;O/0:0),MGMG(18:4,Other,NA
+LC-MS/MS,ML-236C;,ML-236C,Other,NA
+LC-MS/MS,MM 4550;,MM 4550,Other,NA
+LC-MS/MS,MTIC;,MTIC,Other,NA
+LC-MS/MS,Macoline;,Macoline,Other,NA
+LC-MS/MS,Maleic acid,Maleic acid,Other,NA
+LC-MS/MS,Malonylgenistin;,Malonylgenistin,Other,NA
+LC-MS/MS,Manidipine,Manidipine,Other,NA
+LC-MS/MS,Maritimetin 6-(6''-acetylglucoside),Maritimetin 6-(6''-acetylglucoside),Other,NA
+LC-MS/MS,Matteuorienate B,Matteuorienate B,Other,NA
+LC-MS/MS,Mebutamate,Mebutamate,Other,NA
+LC-MS/MS,Mecarbam;,Mecarbam,Other,NA
+LC-MS/MS,Medinoterb acetate;,Medinoterb acetate,Other,NA
+LC-MS/MS,Melampodin A;,Melampodin A,Other,NA
+LC-MS/MS,Memantine;,Memantine,Other,NA
+LC-MS/MS,Meprobamate,Meprobamate,Other,NA
+LC-MS/MS,Mesaconic acid,Mesaconic acid,Other,NA
+LC-MS/MS,Methdilazine;,Methdilazine,Other,NA
+LC-MS/MS,Methohexital;,Methohexital,Other,NA
+LC-MS/MS,Methyl 4-hydroxy-3-methoxycinnamate,Methyl 4-hydroxy-3-methoxycinnamate,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Methyl 4-hydroxycinnamate,Methyl 4-hydroxycinnamate,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Methyl acetyl ricinoleate;,Methyl acetyl ricinoleate,Other,NA
+LC-MS/MS,Methyl caffeate,Methyl caffeate,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Methylarsonate; Methylarsonic acid; MAA;,Methylarsonate,Other,NA
+LC-MS/MS,Methylsuccinic acid,Methylsuccinic acid,Other,NA
+LC-MS/MS,Mevalonic acid,Mevalonic acid,Other,NA
+LC-MS/MS,Microcystin RA;,Microcystin RA,Other,NA
+LC-MS/MS,Microcystin-HiLR,Microcystin-HiLR,Other,NA
+LC-MS/MS,Microdiscusoside A,Microdiscusoside A,Other,NA
+LC-MS/MS,Mikanolide;,Mikanolide,Other,NA
+LC-MS/MS,Milnacipran,Milnacipran,Other,NA
+LC-MS/MS,Mitoxantrone;,Mitoxantrone,Other,NA
+LC-MS/MS,Monepalin B,Monepalin B,Other,NA
+LC-MS/MS,Monobutyl phthalate,Monobutyl phthalate,Other,NA
+LC-MS/MS,Montanol;,Montanol,Other,NA
+LC-MS/MS,Mukaadial;,Mukaadial,Other,NA
+LC-MS/MS,Mulberrin,Mulberrin,Other,NA
+LC-MS/MS,Murrayone,Murrayone,Other,NA
+LC-MS/MS,Musca-aurin-VII; Muscaaurin VII;,Musca-aurin-VII,Other,NA
+LC-MS/MS,Muscapurpurin;,Muscapurpurin,Other,NA
+LC-MS/MS,Muscone,Muscone,Other,NA
+LC-MS/MS,Mycinonic acid III,Mycinonic acid III,Other,NA
+LC-MS/MS,Mycobactin S;,Mycobactin S,Other,NA
+LC-MS/MS,Mycobilin b;,Mycobilin b,Other,NA
+LC-MS/MS,"Myricetin 3-(2'',3'',4''-triacetylxyloside)","Myricetin 3-(2'',3'',4''-triacetylxyloside)",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,"Myricetin 3-(2'',3''-digalloylrhamnoside)","Myricetin 3-(2'',3''-digalloylrhamnoside)",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,"Myricetin 3-(3'',4''-diacetylrhamnoside)","Myricetin 3-(3'',4''-diacetylrhamnoside)",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Myricetin 3-acetylrhamnoside,Myricetin 3-acetylrhamnoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Myricetin 3-sambubioside,Myricetin 3-sambubioside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Myxalamid D;,Myxalamid D,Other,NA
+LC-MS/MS,N'-Hydroxy-2-(2-thienylthio)ethanimidamide,N'-Hydroxy-2-(2-thienylthio)ethanimidamide,Other,NA
+LC-MS/MS,"N,N'-Diphenylguanidine","N,N'-Diphenylguanidine",Other,NA
+LC-MS/MS,"N-(2E,9Z-hexadecadienoyl)-homoserine lactone","N-(2E,9Z-hexadecadienoyl)-homoserine lactone",Amino acids / Peptides,NA
+LC-MS/MS,N-(3-oxo-11Z-octadecenoyl)-homoserine lactone,N-(3-oxo-11Z-octadecenoyl)-homoserine lactone,Amino acids / Peptides,NA
+LC-MS/MS,N-(3-oxo-hexadecanoyl)-homoserine lactone,N-(3-oxo-hexadecanoyl)-homoserine lactone,Amino acids / Peptides,NA
+LC-MS/MS,"N-(4-Chloro-2,5-dimethoxyphenyl)thiourea","N-(4-Chloro-2,5-dimethoxyphenyl)thiourea",Other,NA
+LC-MS/MS,N-(9Z-hexadecenoyl)-homoserine lactone,N-(9Z-hexadecenoyl)-homoserine lactone,Amino acids / Peptides,NA
+LC-MS/MS,N-(p-Coumaroyl) serotonin,N-(p-Coumaroyl) serotonin,Other,NA
+LC-MS/MS,N-Acetoxy-IQ;,N-Acetoxy-IQ,Other,NA
+LC-MS/MS,N-Acetyl-DL-glutamic acid,N-Acetyl-DL-glutamic acid,Amino acids / Peptides,NA
+LC-MS/MS,N-Acetyl-DL-tryptophan,N-Acetyl-DL-tryptophan,Amino acids / Peptides,NA
+LC-MS/MS,N-Acetyl-L-phenylalanine,N-Acetyl-L-phenylalanine,Amino acids / Peptides,NA
+LC-MS/MS,N-Acetyl-L-tyrosine,N-Acetyl-L-tyrosine,Amino acids / Peptides,NA
+LC-MS/MS,N-Acetyl-leu-leu-tyr-amide; NAc-LLY-amide;,N-Acetyl-leu-leu-tyr-amide,Other,NA
+LC-MS/MS,N-Acetyldemethylphosphinothricin; N-Adpt;,N-Acetyldemethylphosphinothricin,Other,NA
+LC-MS/MS,N-Benzylformamide,N-Benzylformamide,Other,NA
+LC-MS/MS,N-Desmethyl-loperamide,N-Desmethyl-loperamide,Other,NA
+LC-MS/MS,N-Glycosyl-L-asparagine;,N-Glycosyl-L-asparagine,Other,NA
+LC-MS/MS,N-Methylcaprolactam,N-Methylcaprolactam,Other,NA
+LC-MS/MS,N-Methylpelletierine;,N-Methylpelletierine,Other,NA
+LC-MS/MS,N-Nitroso-N-methylurethane;,N-Nitroso-N-methylurethane,Other,NA
+LC-MS/MS,N-Octyl-2-pyrrolidone,N-Octyl-2-pyrrolidone,Other,NA
+LC-MS/MS,N-Phospholombricine; N-Phospho-L-lombricine;,N-Phospholombricine,Other,NA
+LC-MS/MS,N-alpha-Acetyl-L-lysine,N-alpha-Acetyl-L-lysine,Amino acids / Peptides,NA
+LC-MS/MS,"N-isobutyl-2E,4Z-octadecadienoyl amine","N-isobutyl-2E,4Z-octadecadienoyl amine",Other,NA
+LC-MS/MS,N-margaroyl taurine,N-margaroyl taurine,Other,NA
+LC-MS/MS,"N-palmitoyl alpha,O-dimethyl tyrosine","N-palmitoyl alpha,O-dimethyl tyrosine",Amino acids / Peptides,NA
+LC-MS/MS,N1-phenethylbenzene-1-carbothioamide,N1-phenethylbenzene-1-carbothioamide,Other,NA
+LC-MS/MS,N2-Malonyl-D-tryptophan;,N2-Malonyl-D-tryptophan,Amino acids / Peptides,NA
+LC-MS/MS,N5-Phenyl-L-glutamine; gamma-Glutamylanilide;,N5-Phenyl-L-glutamine,Amino acids / Peptides,NA
+LC-MS/MS,N5-Phospho-L-glutamine;,N5-Phospho-L-glutamine,Amino acids / Peptides,NA
+LC-MS/MS,"N6,N6,N6-Trimethyl-L-lysine","N6,N6,N6-Trimethyl-L-lysine",Amino acids / Peptides,NA
+LC-MS/MS,N6-Methyl-2'-deoxyadenosine;,N6-Methyl-2'-deoxyadenosine,Other,NA
+LC-MS/MS,NNK,NNK,Other,NA
+LC-MS/MS,Nanchangmycin;,Nanchangmycin,Other,NA
+LC-MS/MS,Nandrolone;,Nandrolone,Other,NA
+LC-MS/MS,Narasin,Narasin,Other,NA
+LC-MS/MS,Naringenin,Naringenin,Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,Naringenin chalcone,Naringenin chalcone,Aromatic / Phenylpropanoid,Other flavonoids
+LC-MS/MS,Nemertelline;,Nemertelline,Other,NA
+LC-MS/MS,Neobavaisoflavone,Neobavaisoflavone,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Neocarlinoside;,Neocarlinoside,Other,NA
+LC-MS/MS,Neochlorogenic acid,Neochlorogenic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Neocnidilide;,Neocnidilide,Other,NA
+LC-MS/MS,Neodiosmin,Neodiosmin,Other,NA
+LC-MS/MS,Neohesperidin,Neohesperidin,Other,NA
+LC-MS/MS,Neoschaftoside;,Neoschaftoside,Other,NA
+LC-MS/MS,Nepheliosyne B,Nepheliosyne B,Other,NA
+LC-MS/MS,Nevadensin 7-rutinoside,Nevadensin 7-rutinoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Nicotianamine;,Nicotianamine,Other,NA
+LC-MS/MS,Nicotinic acid,Nicotinic acid,Other,NA
+LC-MS/MS,Niddamycin;,Niddamycin,Other,NA
+LC-MS/MS,Nocardicin B;,Nocardicin B,Other,NA
+LC-MS/MS,Nogalamycin;,Nogalamycin,Other,NA
+LC-MS/MS,Nordiazepam,Nordiazepam,Other,NA
+LC-MS/MS,Norfludiazepam,Norfludiazepam,Other,NA
+LC-MS/MS,Nostoxanthin;,Nostoxanthin,Other,NA
+LC-MS/MS,Nupharidine;,Nupharidine,Other,NA
+LC-MS/MS,O-Desethyl sildenafil,O-Desethyl sildenafil,Other,NA
+LC-MS/MS,O-Propanoylcarnitine; O-Propionylcarnitine;,O-Propanoylcarnitine,Other,NA
+LC-MS/MS,OG-PS,OG-PS,Other,NA
+LC-MS/MS,OKHdiA-PE,OKHdiA-PE,Lipids / Membrane,NA
+LC-MS/MS,OOB-PE,OOB-PE,Lipids / Membrane,NA
+LC-MS/MS,OOV-PE,OOV-PE,Lipids / Membrane,NA
+LC-MS/MS,OS-PE,OS-PE,Lipids / Membrane,NA
+LC-MS/MS,Obamegine; (+)-Obamegine; Stepholine;,Obamegine,Other,NA
+LC-MS/MS,Octodrine,Octodrine,Other,NA
+LC-MS/MS,Officinalisnin I;,Officinalisnin I,Other,NA
+LC-MS/MS,"Okanin 4'-(3'',4'',6''-triacetylglucoside)","Okanin 4'-(3'',4'',6''-triacetylglucoside)",Other,NA
+LC-MS/MS,Okanin 4'-(4''-acetyl-6''-p-coumarylglucoside),Okanin 4'-(4''-acetyl-6''-p-coumarylglucoside),Other,NA
+LC-MS/MS,Okenone;,Okenone,Other,NA
+LC-MS/MS,Oleandolide;,Oleandolide,Other,NA
+LC-MS/MS,Oleanoic acid 3-O-glucuronide; Silphioside F;,Oleanoic acid 3-O-glucuronide,Other,NA
+LC-MS/MS,Oleanolic acid,Oleanolic acid,Other,NA
+LC-MS/MS,Oleoylglycerone phosphate;,Oleoylglycerone phosphate,Lipids / Membrane,NA
+LC-MS/MS,Oligomycin B;,Oligomycin B,Other,NA
+LC-MS/MS,Ophiopogonin A;,Ophiopogonin A,Other,NA
+LC-MS/MS,Orcinol gentiobioside,Orcinol gentiobioside,Other,NA
+LC-MS/MS,Orientin,Orientin,Other,NA
+LC-MS/MS,Ornaline; Nopalinic acid;,Ornaline,Other,NA
+LC-MS/MS,Orobanchoside; Crenatoside;,Orobanchoside,Other,NA
+LC-MS/MS,Oroxin B,Oroxin B,Other,NA
+LC-MS/MS,Orsellinic acid,Orsellinic acid,Other,NA
+LC-MS/MS,Osirisyne F,Osirisyne F,Other,NA
+LC-MS/MS,Otobain;,Otobain,Other,NA
+LC-MS/MS,Ouabain,Ouabain,Other,NA
+LC-MS/MS,Oxadixyl;,Oxadixyl,Other,NA
+LC-MS/MS,Oxaloglutarate;,Oxaloglutarate,Other,NA
+LC-MS/MS,Oxidized Cypridina luciferin;,Oxidized Cypridina luciferin,Other,NA
+LC-MS/MS,Oxidized Latia luciferin;,Oxidized Latia luciferin,Other,NA
+LC-MS/MS,Oxydemeton-methyl,Oxydemeton-methyl,Other,NA
+LC-MS/MS,PA(12:0/0:0),PA(12:0/0:0),Other,NA
+LC-MS/MS,"PA(20:3(8Z,11Z,14Z)/0:0)","PA(20:3(8Z,11Z,14Z)/0:0)",Other,NA
+LC-MS/MS,"PA(20:5(5Z,8Z,11Z,14Z,17Z)/12:0)","PA(20:5(5Z,8Z,11Z,14Z,17Z)/12:0)",Other,NA
+LC-MS/MS,PA-PI,PA-PI,Other,NA
+LC-MS/MS,PE(0:0/14:0),PE(0:0/14:0),Lipids / Membrane,NA
+LC-MS/MS,PE(0:0/16:1(9Z)),PE(0:0/16:1(9Z)),Lipids / Membrane,NA
+LC-MS/MS,"PE(0:0/18:2(9Z,12Z))","PE(0:0/18:2(9Z,12Z))",Lipids / Membrane,NA
+LC-MS/MS,"PE(0:0/18:3(9Z,12Z,15Z))","PE(0:0/18:3(9Z,12Z,15Z))",Lipids / Membrane,NA
+LC-MS/MS,"PE(0:0/18:4(6Z,9Z,12Z,15Z))","PE(0:0/18:4(6Z,9Z,12Z,15Z))",Lipids / Membrane,NA
+LC-MS/MS,"PE(0:0/20:2(11Z,14Z))","PE(0:0/20:2(11Z,14Z))",Lipids / Membrane,NA
+LC-MS/MS,PE(0:0/20:4;O),PE(0:0/20:4,Lipids / Membrane,NA
+LC-MS/MS,PE(18:1(11Z)/0:0),PE(18:1(11Z)/0:0),Lipids / Membrane,NA
+LC-MS/MS,PE(19:1(9Z)/0:0),PE(19:1(9Z)/0:0),Lipids / Membrane,NA
+LC-MS/MS,"PE(20:3(11Z,14Z,17Z)/0:0)","PE(20:3(11Z,14Z,17Z)/0:0)",Lipids / Membrane,NA
+LC-MS/MS,"PE(20:3(5Z,8Z,11Z)/0:0)","PE(20:3(5Z,8Z,11Z)/0:0)",Lipids / Membrane,NA
+LC-MS/MS,"PE(20:4(8Z,11Z,14Z,17Z)/0:0)","PE(20:4(8Z,11Z,14Z,17Z)/0:0)",Lipids / Membrane,NA
+LC-MS/MS,PE(6:0/6:0),PE(6:0/6:0),Lipids / Membrane,NA
+LC-MS/MS,PG(12:0/16:0),PG(12:0/16:0),Other,NA
+LC-MS/MS,PG(14:1(9Z)/0:0),PG(14:1(9Z)/0:0),Other,NA
+LC-MS/MS,PG(16:0/0:0),PG(16:0/0:0),Other,NA
+LC-MS/MS,PG(16:1(9Z)/0:0),PG(16:1(9Z)/0:0),Other,NA
+LC-MS/MS,PG(16:1(9Z)/12:0),PG(16:1(9Z)/12:0),Other,NA
+LC-MS/MS,PG(18:1(9Z)/0:0),PG(18:1(9Z)/0:0),Other,NA
+LC-MS/MS,"PG(20:5(5Z,8Z,11Z,14Z,17Z)/0:0)","PG(20:5(5Z,8Z,11Z,14Z,17Z)/0:0)",Other,NA
+LC-MS/MS,PG(8:0/8:0),PG(8:0/8:0),Other,NA
+LC-MS/MS,PG(O-20:0/18:0),PG(O-20:0/18:0),Other,NA
+LC-MS/MS,PG(P-16:0/12:0),PG(P-16:0/12:0),Other,NA
+LC-MS/MS,PG-PG,PG-PG,Other,NA
+LC-MS/MS,PG-PS,PG-PS,Other,NA
+LC-MS/MS,PGD2-EA,PGD2-EA,Other,NA
+LC-MS/MS,PHDdiA-PA,PHDdiA-PA,Other,NA
+LC-MS/MS,PHDdiA-PG,PHDdiA-PG,Other,NA
+LC-MS/MS,PI(16:0/0:0),PI(16:0/0:0),Other,NA
+LC-MS/MS,PI(16:1(9Z)/0:0),PI(16:1(9Z)/0:0),Other,NA
+LC-MS/MS,"PI(18:2(9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))","PI(18:2(9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Other,NA
+LC-MS/MS,"PI(18:3(9Z,12Z,15Z)/0:0)","PI(18:3(9Z,12Z,15Z)/0:0)",Other,NA
+LC-MS/MS,"PI(18:3(9Z,12Z,15Z)/13:0)","PI(18:3(9Z,12Z,15Z)/13:0)",Other,NA
+LC-MS/MS,"PI(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))","PI(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))",Other,NA
+LC-MS/MS,"PI(18:4(6Z,9Z,12Z,15Z)/0:0)","PI(18:4(6Z,9Z,12Z,15Z)/0:0)",Other,NA
+LC-MS/MS,"PI(20:4(5Z,8Z,11Z,14Z)/0:0)","PI(20:4(5Z,8Z,11Z,14Z)/0:0)",Other,NA
+LC-MS/MS,"PI(20:5(5Z,8Z,11Z,14Z,17Z)/0:0)","PI(20:5(5Z,8Z,11Z,14Z,17Z)/0:0)",Other,NA
+LC-MS/MS,"PI(20:5(5Z,8Z,11Z,14Z,17Z)/18:4(6Z,9Z,12Z,15Z))","PI(20:5(5Z,8Z,11Z,14Z,17Z)/18:4(6Z,9Z,12Z,15Z))",Other,NA
+LC-MS/MS,"PI(22:4(7Z,10Z,13Z,16Z)/22:4(7Z,10Z,13Z,16Z))","PI(22:4(7Z,10Z,13Z,16Z)/22:4(7Z,10Z,13Z,16Z))",Other,NA
+LC-MS/MS,PI(P-16:0/0:0),PI(P-16:0/0:0),Other,NA
+LC-MS/MS,PIM1(17:0/14:0),PIM1(17:0/14:0),Other,NA
+LC-MS/MS,PON-PI,PON-PI,Other,NA
+LC-MS/MS,POV-PS,POV-PS,Other,NA
+LC-MS/MS,PPG Acrylate n7,PPG Acrylate n7,Other,NA
+LC-MS/MS,PS(14:1(9Z)/0:0),PS(14:1(9Z)/0:0),Other,NA
+LC-MS/MS,"PS(17:2(9Z,12Z)/0:0)","PS(17:2(9Z,12Z)/0:0)",Other,NA
+LC-MS/MS,"PS(18:2(9Z,12Z)/0:0)","PS(18:2(9Z,12Z)/0:0)",Other,NA
+LC-MS/MS,"PS(18:3(9Z,12Z,15Z)/0:0)","PS(18:3(9Z,12Z,15Z)/0:0)",Other,NA
+LC-MS/MS,PS(19:1(9Z)/0:0),PS(19:1(9Z)/0:0),Other,NA
+LC-MS/MS,"PS(20:2(11Z,14Z)/0:0)","PS(20:2(11Z,14Z)/0:0)",Other,NA
+LC-MS/MS,Pachymic acid;,Pachymic acid,Other,NA
+LC-MS/MS,Paeonoside;,Paeonoside,Other,NA
+LC-MS/MS,Palmitic Acid,Palmitic Acid,Other,NA
+LC-MS/MS,Paniculatin;,Paniculatin,Other,NA
+LC-MS/MS,Panogenin-3-o-alpha-L-rhamnopyranoside; Panoside;,Panogenin-3-o-alpha-L-rhamnopyranoside,Other,NA
+LC-MS/MS,Pantetheine; (R)-Pantetheine;,Pantetheine,Other,NA
+LC-MS/MS,Pantheric Acid C,Pantheric Acid C,Other,NA
+LC-MS/MS,Pantothenic acid,Pantothenic acid,Other,NA
+LC-MS/MS,Paracetamol,Paracetamol,Other,NA
+LC-MS/MS,Patuletin 3-(6''-(E)-feruloylglucoside),Patuletin 3-(6''-(E)-feruloylglucoside),Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Patuletin 3-(6''-acetylglucoside),Patuletin 3-(6''-acetylglucoside),Other,NA
+LC-MS/MS,Patuletin 3-(6''-p-coumaroylglucoside),Patuletin 3-(6''-p-coumaroylglucoside),Other,NA
+LC-MS/MS,Patuletin 5-glucoside,Patuletin 5-glucoside,Other,NA
+LC-MS/MS,Pectenotoxin 1; PTX 1;,Pectenotoxin 1,Other,NA
+LC-MS/MS,Pectenotoxin 2; 43-Deoxypectenotoxin 1; PTX 2;,Pectenotoxin 2,Other,NA
+LC-MS/MS,Pederin;,Pederin,Other,NA
+LC-MS/MS,Penicillic acid,Penicillic acid,Other,NA
+LC-MS/MS,Penicillin F; 2-Pentenylpenicillin;,Penicillin F,Other,NA
+LC-MS/MS,Penicisteroid A,Penicisteroid A,Other,NA
+LC-MS/MS,Penicisteroid F,Penicisteroid F,Other,NA
+LC-MS/MS,Perfluorooctanoic acid (PFOA),Perfluorooctanoic acid (PFOA),Other,NA
+LC-MS/MS,Perfluorooctyl phosphate,Perfluorooctyl phosphate,Other,NA
+LC-MS/MS,Perfoliatumin A,Perfoliatumin A,Other,NA
+LC-MS/MS,Perfoliatumin B,Perfoliatumin B,Other,NA
+LC-MS/MS,Petromylidene C,Petromylidene C,Other,NA
+LC-MS/MS,Pfaffoside A;,Pfaffoside A,Other,NA
+LC-MS/MS,PharmaGSID_47333,PharmaGSID_47333,Other,NA
+LC-MS/MS,Phaseolic acid;,Phaseolic acid,Other,NA
+LC-MS/MS,Phellodensin F,Phellodensin F,Other,NA
+LC-MS/MS,Phenmedipham,Phenmedipham,Other,NA
+LC-MS/MS,Phenyl phosphate,Phenyl phosphate,Other,NA
+LC-MS/MS,Phenylacetaldehyde,Phenylacetaldehyde,Other,NA
+LC-MS/MS,Phenylpyruvic acid,Phenylpyruvic acid,Other,NA
+LC-MS/MS,Pheophorbide a;,Pheophorbide a,Other,NA
+LC-MS/MS,Philanthotoxin;,Philanthotoxin,Other,NA
+LC-MS/MS,Phosphonoacetic acid,Phosphonoacetic acid,Other,NA
+LC-MS/MS,Phytyl diphosphate;,Phytyl diphosphate,Other,NA
+LC-MS/MS,Picfeltarraenin IA,Picfeltarraenin IA,Other,NA
+LC-MS/MS,Picfeltarraenin IB,Picfeltarraenin IB,Other,NA
+LC-MS/MS,Picrasin C; Nigakilactone J; Quassin;,Picrasin C,Other,NA
+LC-MS/MS,Picrotoxinin,Picrotoxinin,Other,NA
+LC-MS/MS,Pimozide;,Pimozide,Other,NA
+LC-MS/MS,Pinocembrin,Pinocembrin,Other,NA
+LC-MS/MS,Pinocembrin 7-O-neohesperidoside 6''-O-acetate,Pinocembrin 7-O-neohesperidoside 6''-O-acetate,Other,NA
+LC-MS/MS,Pinoresinol 4-O-glucoside,Pinoresinol 4-O-glucoside,Other,NA
+LC-MS/MS,Pinoresinol diglucoside,Pinoresinol diglucoside,Other,NA
+LC-MS/MS,Pipecolic acid,Pipecolic acid,Other,NA
+LC-MS/MS,Pirbuterol;,Pirbuterol,Other,NA
+LC-MS/MS,Plantagoside;,Plantagoside,Other,NA
+LC-MS/MS,Plastoquinone-1;,Plastoquinone-1,Other,NA
+LC-MS/MS,Platensimycin; (-)-Platensimycin;,Platensimycin,Other,NA
+LC-MS/MS,Plocamene B;,Plocamene B,Other,NA
+LC-MS/MS,Podorhizol beta-D-glucoside;,Podorhizol beta-D-glucoside,Other,NA
+LC-MS/MS,Polydatin,Polydatin,Other,NA
+LC-MS/MS,Polyphyllin VI,Polyphyllin VI,Other,NA
+LC-MS/MS,Pongamoside C,Pongamoside C,Other,NA
+LC-MS/MS,Portulacaxanthin I;,Portulacaxanthin I,Other,NA
+LC-MS/MS,Potassium dibasic phosphate;,Potassium dibasic phosphate,Other,NA
+LC-MS/MS,Pravastatin;,Pravastatin,Other,NA
+LC-MS/MS,Premithramycin A1;,Premithramycin A1,Other,NA
+LC-MS/MS,Premithramycin A3';,Premithramycin A3',Other,NA
+LC-MS/MS,Premithramycinone;,Premithramycinone,Other,NA
+LC-MS/MS,Primisulfuron;,Primisulfuron,Other,NA
+LC-MS/MS,Procyanidin B1,Procyanidin B1,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Procyanidin B2,Procyanidin B2,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Procyanidin B5; Procyanidol B5;,Procyanidin B5,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Propaphos;,Propaphos,Other,NA
+LC-MS/MS,Propoxyphenyl thiohydroxyhomosildenafil,Propoxyphenyl thiohydroxyhomosildenafil,Other,NA
+LC-MS/MS,"Propyl 2,4-decadienoate","Propyl 2,4-decadienoate",Other,NA
+LC-MS/MS,Propyzamide,Propyzamide,Other,NA
+LC-MS/MS,Prosopinine,Prosopinine,Other,NA
+LC-MS/MS,Prostaglandin A3,Prostaglandin A3,Other,NA
+LC-MS/MS,Prostaglandin G2,Prostaglandin G2,Other,NA
+LC-MS/MS,Prostaglandin H1,Prostaglandin H1,Other,NA
+LC-MS/MS,Prostaglandin K2,Prostaglandin K2,Other,NA
+LC-MS/MS,Protomycinolide IV;,Protomycinolide IV,Other,NA
+LC-MS/MS,Prunin,Prunin,Other,NA
+LC-MS/MS,Pseudobaptigenin;,Pseudobaptigenin,Other,NA
+LC-MS/MS,Pseudolaric acid B-O-beta-D-glucopyranoside,Pseudolaric acid B-O-beta-D-glucopyranoside,Other,NA
+LC-MS/MS,Psoralidin;,Psoralidin,Other,NA
+LC-MS/MS,Psychosine,Psychosine,Other,NA
+LC-MS/MS,Psychosine sulfate;,Psychosine sulfate,Other,NA
+LC-MS/MS,Ptaerochromenol;,Ptaerochromenol,Other,NA
+LC-MS/MS,Ptilosteroid C,Ptilosteroid C,Other,NA
+LC-MS/MS,Puerarin,Puerarin,Other,NA
+LC-MS/MS,Puerarin xyloside;,Puerarin xyloside,Other,NA
+LC-MS/MS,Purifolin,Purifolin,Other,NA
+LC-MS/MS,Purine mononucleotide;,Purine mononucleotide,Other,NA
+LC-MS/MS,Pyracarbolid;,Pyracarbolid,Other,NA
+LC-MS/MS,Pyrazophos;,Pyrazophos,Other,NA
+LC-MS/MS,"Pyruvophenone; 1-Phenyl-1,2-propanedione;",Pyruvophenone,Other,NA
+LC-MS/MS,Quercetagetin 7-(6''-(E)-caffeoylglucoside),Quercetagetin 7-(6''-(E)-caffeoylglucoside),Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Quercetagetin 7-(6''-acetylglucoside),Quercetagetin 7-(6''-acetylglucoside),Other,NA
+LC-MS/MS,Quercetin 3-(2'''-caffeylsophoroside),Quercetin 3-(2'''-caffeylsophoroside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quercetin 3-(2'''-feruloylsophoroside),Quercetin 3-(2'''-feruloylsophoroside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,"Quercetin 3-(2'',3'',4''-triacetylgalactoside)","Quercetin 3-(2'',3'',4''-triacetylgalactoside)",Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quercetin 3-(2G-xylosylrutinoside);,Quercetin 3-(2G-xylosylrutinoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quercetin 3-(6''-malonylglucoside)-7-rhamnoside,Quercetin 3-(6''-malonylglucoside)-7-rhamnoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quercetin 3-glucoside-7-glucuronide,Quercetin 3-glucoside-7-glucuronide,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quercetin 3-sambubioside-3'-glucoside,Quercetin 3-sambubioside-3'-glucoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quercetin 7-(6''-tiglylglucoside),Quercetin 7-(6''-tiglylglucoside),Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quercetin-3beta-D-glucoside,Quercetin-3beta-D-glucoside,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,Quinic acid,Quinic acid,Other,NA
+LC-MS/MS,Raucaffricine; Vomilenine beta-D-glucoside;,Raucaffricine,Other,NA
+LC-MS/MS,Red chlorophyll catabolite;,Red chlorophyll catabolite,Other,NA
+LC-MS/MS,Reduced FMN; FMNH2;,Reduced FMN,Other,NA
+LC-MS/MS,Resiniferatoxin; RTX;,Resiniferatoxin,Other,NA
+LC-MS/MS,Resorufin,Resorufin,Other,NA
+LC-MS/MS,Rhamnetin 3-rhamninoside,Rhamnetin 3-rhamninoside,Other,NA
+LC-MS/MS,Rhamnocitrin 3-(6''-acetylglucoside),Rhamnocitrin 3-(6''-acetylglucoside),Other,NA
+LC-MS/MS,Rhapontigenin,Rhapontigenin,Other,NA
+LC-MS/MS,Rhizocticin D;,Rhizocticin D,Other,NA
+LC-MS/MS,Riboflavin,Riboflavin,Other,NA
+LC-MS/MS,Riccionidin A;,Riccionidin A,Aromatic / Phenylpropanoid,Anthocyanins
+LC-MS/MS,Rilpivirine,Rilpivirine,Other,NA
+LC-MS/MS,Ritodrine,Ritodrine,Other,NA
+LC-MS/MS,Rogioldiol A,Rogioldiol A,Other,NA
+LC-MS/MS,Rolicyclidine,Rolicyclidine,Other,NA
+LC-MS/MS,Rutin,Rutin,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,S-Adenosylmethionine,S-Adenosylmethionine,Amino acids / Peptides,NA
+LC-MS/MS,S-Decyl GSH; S-Decyl glutathione;,S-Decyl GSH,Other,NA
+LC-MS/MS,S-[(E)-Prop-1-enyl]-L-cysteine S-oxide;,S-[(E)-Prop-1-enyl]-L-cysteine S-oxide,Other,NA
+LC-MS/MS,S-aminomethyldihydrolipoamide,S-aminomethyldihydrolipoamide,Other,NA
+LC-MS/MS,SNH,SNH,Other,NA
+LC-MS/MS,"SQDG(22:5(5Z,8Z,11Z,14Z,17Z)/16:1(13Z))","SQDG(22:5(5Z,8Z,11Z,14Z,17Z)/16:1(13Z))",Lipids / Membrane,NA
+LC-MS/MS,SQMG(16:0/0:0),SQMG(16:0/0:0),Other,NA
+LC-MS/MS,SSR146977,SSR146977,Other,NA
+LC-MS/MS,SSR161421,SSR161421,Other,NA
+LC-MS/MS,Safflomin A,Safflomin A,Other,NA
+LC-MS/MS,Safflomin C,Safflomin C,Other,NA
+LC-MS/MS,Safrole,Safrole,Other,NA
+LC-MS/MS,Saikosaponin A;,Saikosaponin A,Other,NA
+LC-MS/MS,Salannin;,Salannin,Other,NA
+LC-MS/MS,Salbutamol,Salbutamol,Other,NA
+LC-MS/MS,Salicin 6-phosphate; Salicin-6P;,Salicin 6-phosphate,Other,NA
+LC-MS/MS,Salicylic acid,Salicylic acid,Hormones / Signals,NA
+LC-MS/MS,Salvianin;,Salvianin,Aromatic / Phenylpropanoid,Anthocyanins
+LC-MS/MS,Salvinorin A,Salvinorin A,Other,NA
+LC-MS/MS,Sanggenon G,Sanggenon G,Other,NA
+LC-MS/MS,Sarcostin;,Sarcostin,Other,NA
+LC-MS/MS,Sarmentosin epoxide;,Sarmentosin epoxide,Other,NA
+LC-MS/MS,Sativic acid,Sativic acid,Other,NA
+LC-MS/MS,Scabraside;,Scabraside,Other,NA
+LC-MS/MS,Schaftoside,Schaftoside,Other,NA
+LC-MS/MS,Schizonepetoside E;,Schizonepetoside E,Other,NA
+LC-MS/MS,Scopoletin,Scopoletin,Aromatic / Phenylpropanoid,Coumarins
+LC-MS/MS,"Scutellarein 6,7-dimethyl ether 4'-glucuronide","Scutellarein 6,7-dimethyl ether 4'-glucuronide",Other,NA
+LC-MS/MS,Secoisolariciresinol diglucoside,Secoisolariciresinol diglucoside,Other,NA
+LC-MS/MS,Selenodiglutathione; GSSeSG;,Selenodiglutathione,AsA/GSH,NA
+LC-MS/MS,Senaetnine;,Senaetnine,Other,NA
+LC-MS/MS,Serratanidine;,Serratanidine,Other,NA
+LC-MS/MS,Shikimic acid,Shikimic acid,Other,NA
+LC-MS/MS,Shogaol,Shogaol,Other,NA
+LC-MS/MS,Sibiricose A5,Sibiricose A5,Other,NA
+LC-MS/MS,Siegesbeckin B,Siegesbeckin B,Other,NA
+LC-MS/MS,Simeconazole,Simeconazole,Other,NA
+LC-MS/MS,Simvastatin,Simvastatin,Other,NA
+LC-MS/MS,Sinapinic acid,Sinapinic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Sinapoyltartronate;,Sinapoyltartronate,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Solavetivone;,Solavetivone,Other,NA
+LC-MS/MS,Sophoricoside,Sophoricoside,Other,NA
+LC-MS/MS,Soraphen O;,Soraphen O,Other,NA
+LC-MS/MS,Soularubinone;,Soularubinone,Other,NA
+LC-MS/MS,Spinasaponin A;,Spinasaponin A,Other,NA
+LC-MS/MS,Spinosin 6'''-(E)-ferulate,Spinosin 6'''-(E)-ferulate,Aromatic / Phenylpropanoid,Phenylpropanoid (others)
+LC-MS/MS,Spinosin 6'''-(E)-p-coumarate,Spinosin 6'''-(E)-p-coumarate,Other,NA
+LC-MS/MS,Spironolactone,Spironolactone,Other,NA
+LC-MS/MS,Stealthin C;,Stealthin C,Other,NA
+LC-MS/MS,Stigmatellin Y;,Stigmatellin Y,Other,NA
+LC-MS/MS,Stiripentol,Stiripentol,Other,NA
+LC-MS/MS,Streptonigrin;,Streptonigrin,Other,NA
+LC-MS/MS,Succinic acid,Succinic acid,Other,NA
+LC-MS/MS,"Sugiol; 12-Hydroxyabieta-8,11,13-trien-7-one;",Sugiol,Other,NA
+LC-MS/MS,Sulfadimethoxine,Sulfadimethoxine,Other,NA
+LC-MS/MS,Sulfometuron methyl;,Sulfometuron methyl,Other,NA
+LC-MS/MS,Sutchuenoside A,Sutchuenoside A,Other,NA
+LC-MS/MS,Syringin; Eleutheroside B;,Syringin,Other,NA
+LC-MS/MS,"TG(14:1(9Z)/15:1(9Z)/17:2(9Z,12Z))[iso6]","TG(14:1(9Z)/15:1(9Z)/17:2(9Z,12Z))[iso6]",Lipids / Membrane,NA
+LC-MS/MS,"TG(16:1(9Z)/18:4(6Z,9Z,12Z,15Z)/19:1(9Z))[iso6]","TG(16:1(9Z)/18:4(6Z,9Z,12Z,15Z)/19:1(9Z))[iso6]",Lipids / Membrane,NA
+LC-MS/MS,TOFA,TOFA,Other,NA
+LC-MS/MS,Tacrolimus; FK506; FK 506;,Tacrolimus,Other,NA
+LC-MS/MS,Tamarixetin 5-glucoside-7-glucuronide,Tamarixetin 5-glucoside-7-glucuronide,Other,NA
+LC-MS/MS,Tanespimycin,Tanespimycin,Other,NA
+LC-MS/MS,Taurodeoxycholic Acid,Taurodeoxycholic Acid,Other,NA
+LC-MS/MS,Taxifolin 7-rhamnoside,Taxifolin 7-rhamnoside,Other,NA
+LC-MS/MS,Tectoridin,Tectoridin,Other,NA
+LC-MS/MS,Tentoxin,Tentoxin,Other,NA
+LC-MS/MS,Terpendole G;,Terpendole G,Other,NA
+LC-MS/MS,Terpendole K;,Terpendole K,Other,NA
+LC-MS/MS,Terpestacin,Terpestacin,Other,NA
+LC-MS/MS,Tetracenomycin C;,Tetracenomycin C,Other,NA
+LC-MS/MS,Tetracenomycin D1;,Tetracenomycin D1,Other,NA
+LC-MS/MS,Tetrahydrocorticosterone;,Tetrahydrocorticosterone,Other,NA
+LC-MS/MS,Tetrahydropteroyltri-L-glutamate; (6S)-H4PteGlu3;,Tetrahydropteroyltri-L-glutamate,Amino acids / Peptides,NA
+LC-MS/MS,Tetranorbiotin;,Tetranorbiotin,Other,NA
+LC-MS/MS,Thalicarpine;,Thalicarpine,Other,NA
+LC-MS/MS,Theasinensin A;,Theasinensin A,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,Thiethylperazine; Ethylthioperazine;,Thiethylperazine,Other,NA
+LC-MS/MS,Thiophanate-methyl,Thiophanate-methyl,Other,NA
+LC-MS/MS,Thiosulfate; Hyposulfite;,Thiosulfate,Other,NA
+LC-MS/MS,Thiosulfuric acid;,Thiosulfuric acid,Other,NA
+LC-MS/MS,Thiram; Tetramethylthioperoxydicarbonic diamide;,Thiram,Other,NA
+LC-MS/MS,Thonningianin B,Thonningianin B,Other,NA
+LC-MS/MS,Thromboxane B2,Thromboxane B2,Other,NA
+LC-MS/MS,Thymidine,Thymidine,Other,NA
+LC-MS/MS,Tiliacorine;,Tiliacorine,Other,NA
+LC-MS/MS,Tiliroside,Tiliroside,Other,NA
+LC-MS/MS,Timosaponin A-I;,Timosaponin A-I,Other,NA
+LC-MS/MS,Timosaponin A-III,Timosaponin A-III,Other,NA
+LC-MS/MS,Tolycaine,Tolycaine,Other,NA
+LC-MS/MS,Tolylacetate; p-Cresyl acetate; p-Tolyacetate;,Tolylacetate,Other,NA
+LC-MS/MS,Tramadol N-Oxide,Tramadol N-Oxide,Other,NA
+LC-MS/MS,Traumatic acid,Traumatic acid,Other,NA
+LC-MS/MS,Tribuloside;,Tribuloside,Other,NA
+LC-MS/MS,"Tricin 5,7-diglucoside","Tricin 5,7-diglucoside",Other,NA
+LC-MS/MS,Tricin 5-O-beta-D-glucoside,Tricin 5-O-beta-D-glucoside,Other,NA
+LC-MS/MS,Triethyl phosphate,Triethyl phosphate,Other,NA
+LC-MS/MS,Triethylene glycol diglycidyl ether; Etoglucid;,Triethylene glycol diglycidyl ether,Other,NA
+LC-MS/MS,Trifolin,Trifolin,Other,NA
+LC-MS/MS,Trigonelline,Trigonelline,Other,NA
+LC-MS/MS,Triheptanoin,Triheptanoin,Other,NA
+LC-MS/MS,Trolox,Trolox,Other,NA
+LC-MS/MS,Trovafloxacin,Trovafloxacin,Other,NA
+LC-MS/MS,Tyrosylalanine,Tyrosylalanine,Other,NA
+LC-MS/MS,UDP-N-acetylglucosamine,UDP-N-acetylglucosamine,Other,NA
+LC-MS/MS,UR-12947;,UR-12947,Other,NA
+LC-MS/MS,Uncarine F;,Uncarine F,Other,NA
+LC-MS/MS,Urdamycinone F;,Urdamycinone F,Other,NA
+LC-MS/MS,Uridine,Uridine,Other,NA
+LC-MS/MS,Uridine 5'-diphosphate (UDP),Uridine 5'-diphosphate (UDP),Other,NA
+LC-MS/MS,Uridine 5'-diphosphogalactose,Uridine 5'-diphosphogalactose,Other,NA
+LC-MS/MS,Uridine 5'-diphosphoglucuronic acid,Uridine 5'-diphosphoglucuronic acid,Other,NA
+LC-MS/MS,Uridine monophosphate (UMP),Uridine monophosphate (UMP),Other,NA
+LC-MS/MS,Valerophenone,Valerophenone,Other,NA
+LC-MS/MS,Valerosidatum; Valerosidate;,Valerosidatum,Other,NA
+LC-MS/MS,Valine;,Valine,Amino acids / Peptides,NA
+LC-MS/MS,Valylproline,Valylproline,Amino acids / Peptides,NA
+LC-MS/MS,Vanillic acid,Vanillic acid,Other,NA
+LC-MS/MS,Vanillin,Vanillin,Other,NA
+LC-MS/MS,Vanillylamine;,Vanillylamine,Other,NA
+LC-MS/MS,Variabiloside D,Variabiloside D,Other,NA
+LC-MS/MS,Verproside,Verproside,Other,NA
+LC-MS/MS,Versiconal;,Versiconal,Other,NA
+LC-MS/MS,Vicenin II,Vicenin II,Other,NA
+LC-MS/MS,Vicenin III,Vicenin III,Other,NA
+LC-MS/MS,Villosin,Villosin,Other,NA
+LC-MS/MS,Vindoline;,Vindoline,Other,NA
+LC-MS/MS,Vitamin D3 glucosiduronate,Vitamin D3 glucosiduronate,Other,NA
+LC-MS/MS,Vitexin,Vitexin,Other,NA
+LC-MS/MS,Vitexin rhamnoside,Vitexin rhamnoside,Other,NA
+LC-MS/MS,Viviparum A,Viviparum A,Other,NA
+LC-MS/MS,WLK,WLK,Other,NA
+LC-MS/MS,WMH,WMH,Other,NA
+LC-MS/MS,Warfarin;,Warfarin,Other,NA
+LC-MS/MS,Wogonin 7-glucuronide,Wogonin 7-glucuronide,Other,NA
+LC-MS/MS,Xanthosine;,Xanthosine,Other,NA
+LC-MS/MS,Xestoaminol C,Xestoaminol C,Other,NA
+LC-MS/MS,Z-Petromylidene B,Z-Petromylidene B,Other,NA
+LC-MS/MS,Zearalanone; (S)-Zearalanone;,Zearalanone,Other,NA
+LC-MS/MS,Zinc protoporphyrin-9; Zinc protoporphyrin;,Zinc protoporphyrin-9,Other,NA
+LC-MS/MS,Zizybeoside II;,Zizybeoside II,Other,NA
+LC-MS/MS,alpha-Asaron;,alpha-Asaron,Other,NA
+LC-MS/MS,alpha-Aspartylphenylalanine,alpha-Aspartylphenylalanine,Amino acids / Peptides,NA
+LC-MS/MS,alpha-D-Galactosamine 1-phosphate;,alpha-D-Galactosamine 1-phosphate,Other,NA
+LC-MS/MS,"alpha-D-Glucose-1,6-bisphosphate","alpha-D-Glucose-1,6-bisphosphate",Other,NA
+LC-MS/MS,alpha-Linolenic acid,alpha-Linolenic acid,Other,NA
+LC-MS/MS,alpha-Sanshool;,alpha-Sanshool,Other,NA
+LC-MS/MS,alpha-Santonin;,alpha-Santonin,Other,NA
+LC-MS/MS,antiogenin,antiogenin,Other,NA
+LC-MS/MS,ascr#21,ascr#21,Other,NA
+LC-MS/MS,ascr#4,ascr#4,Other,NA
+LC-MS/MS,"beta-2,3,5,6-Tetrachloro-1,4-cyclohexanediol;","beta-2,3,5,6-Tetrachloro-1,4-cyclohexanediol",Other,NA
+LC-MS/MS,beta-Alanyl-L-arginine;,beta-Alanyl-L-arginine,Other,NA
+LC-MS/MS,beta-Asarone,beta-Asarone,Other,NA
+LC-MS/MS,"beta-Estradiol 3,17-disulfate","beta-Estradiol 3,17-disulfate",Other,NA
+LC-MS/MS,beta-Funaltrexamine; beta-FNA;,beta-Funaltrexamine,Other,NA
+LC-MS/MS,beta-Ionone; trans-beta-Ionone;,beta-Ionone,Other,NA
+LC-MS/MS,beta-Paxitriol; 10beta-Hydroxypaxilline;,beta-Paxitriol,Other,NA
+LC-MS/MS,bhos#10,bhos#10,Other,NA
+LC-MS/MS,catechin 3-tetradecanoate,catechin 3-tetradecanoate,Aromatic / Phenylpropanoid,Proanthocyanidins / Catechins
+LC-MS/MS,cis-(Homo)2-aconitate;,cis-(Homo)2-aconitate,Other,NA
+LC-MS/MS,cis-11-Methyl-2-dodecenoic acid;,cis-11-Methyl-2-dodecenoic acid,Other,NA
+LC-MS/MS,cis-Aconitic acid,cis-Aconitic acid,Other,NA
+LC-MS/MS,cis-Chlorobenzene dihydrodiol;,cis-Chlorobenzene dihydrodiol,Other,NA
+LC-MS/MS,cis-Dihydroquercetin;,cis-Dihydroquercetin,Aromatic / Phenylpropanoid,Flavonols / Flavones
+LC-MS/MS,cis-Zeatin riboside;,cis-Zeatin riboside,Other,NA
+LC-MS/MS,dTDP-2-deoxy-beta-L-fucose; dTDP-L-2-deoxyfucose;,dTDP-2-deoxy-beta-L-fucose,Other,NA
+LC-MS/MS,"dTDP-3,4-dioxo-2,6-dideoxy-L-glucose;","dTDP-3,4-dioxo-2,6-dideoxy-L-glucose",Other,NA
+LC-MS/MS,dasc#1,dasc#1,Other,NA
+LC-MS/MS,delta-Guanidinovaleric acid;,delta-Guanidinovaleric acid,Other,NA
+LC-MS/MS,dhas#18,dhas#18,Other,NA
+LC-MS/MS,diethyl 2-(acetylamino)malonate,diethyl 2-(acetylamino)malonate,Other,NA
+LC-MS/MS,geodisterol-O-sulfite,geodisterol-O-sulfite,Other,NA
+LC-MS/MS,glas#1,glas#1,Other,NA
+LC-MS/MS,glas#10,glas#10,Other,NA
+LC-MS/MS,glas#20,glas#20,Other,NA
+LC-MS/MS,glas#24,glas#24,Other,NA
+LC-MS/MS,glas#3,glas#3,Other,NA
+LC-MS/MS,hellebrigenin-3-(14-hydroxymyristate),hellebrigenin-3-(14-hydroxymyristate),Other,NA
+LC-MS/MS,karalicin,karalicin,Other,NA
+LC-MS/MS,"methyl 10,13-dihydroxy-9-oxo-11-octadecenoate","methyl 10,13-dihydroxy-9-oxo-11-octadecenoate",Other,NA
+LC-MS/MS,methyl 9-(alpha-D-galactosyloxy)nonanoate,methyl 9-(alpha-D-galactosyloxy)nonanoate,Other,NA
+LC-MS/MS,oscr#20,oscr#20,Other,NA
+LC-MS/MS,p-Coumaryl alcohol 4-glucoside,p-Coumaryl alcohol 4-glucoside,Other,NA
+LC-MS/MS,pre-putrebactin,pre-putrebactin,Other,NA
+LC-MS/MS,steviol-19-O-beta-D-glucoside,steviol-19-O-beta-D-glucoside,Other,NA
+LC-MS/MS,trans-Cinnamic acid,trans-Cinnamic acid,Aromatic / Phenylpropanoid,Phenylpropanoid (others)

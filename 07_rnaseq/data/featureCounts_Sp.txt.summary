@@ -1,0 +1,13 @@
+Status	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-SL-3h-1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-SL-3h-2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-SL-3h-3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-SL-4D-1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-SL-4D-2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-SL-4D-3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-WL-3h-1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-WL-3h-2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp-WL-3h-3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_SL_3h_1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_SL_3h_2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_SL_3h_3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_SL_4D_1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_SL_4D_2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_SL_4D_3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_WL_3h_1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_WL_3h_2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Sp_WL_3h_3.sam
+Assigned	7168916	8166892	6745829	7755680	6852784	7477056	5751480	6845677	5980730	21069250	20084854	20271678	21761943	17316925	17716337	17438420	21040645	19450819
+Unassigned_Unmapped	4939739	4193656	3427737	4151265	4282646	3252760	3831722	3829903	4155541	505695	458095	485860	470567	390829	408374	396645	463625	418719
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	6708186	4194617	3357993	3247524	4058434	1302568	3284844	3167669	4517646	1027207	967985	1048819	989007	792120	918389	808427	973829	893695
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

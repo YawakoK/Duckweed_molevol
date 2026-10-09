@@ -1,0 +1,13 @@
+Status	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-SL-3h-1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-SL-3h-2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-SL-3h-3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-SL-4D-1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-SL-4D-2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-SL-4D-3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-WL-3h-1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-WL-3h-2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa-WL-3h-3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_SL_3h_1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_SL_3h_2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_SL_3h_3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_SL_4D_1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_SL_4D_2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_SL_4D_3.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_WL_3h_1.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_WL_3h_2.sam	/home/yawako/N/Ukikusa/RNA-seq/sambam_withorga/Wa_WL_3h_3.sam
+Assigned	10013532	9377186	11557943	8988064	9578963	8180934	10513046	9873225	8927716	21074307	19288589	21546289	16723968	23166541	23458374	23571182	22774814	23736946
+Unassigned_Unmapped	1707711	2064004	2951409	2604573	2519121	2468401	1456947	1865948	1850528	61012	55557	66690	62809	70889	90488	67187	69856	80566
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	1386502	4570647	4870306	1295515	1491203	870969	1284663	1595812	1438017	764330	677876	820955	581709	739109	718327	887370	853389	853292
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
