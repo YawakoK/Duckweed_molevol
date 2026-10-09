@@ -48,7 +48,7 @@ directory README.
 | Data | Repository |
 |---|---|
 | Raw RNA-seq reads, transcriptome assemblies | NCBI BioProject [PRJNA1508391](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1508391) |
-| Per-orthogroup codon alignments, gene trees, aBSREL JSONs (~1.4 GB); *W. australiana* organellar gene models | Zenodo dataset (DOI to be added) |
+| Per-orthogroup codon alignments, gene trees, aBSREL JSONs (~1.4 GB); *W. australiana* organellar gene models | Zenodo dataset [10.5281/zenodo.23254999](https://doi.org/10.5281/zenodo.23254999) |
 | GBIF occurrence downloads (19 September 2024) | https://doi.org/10.15468/dl.sp7u55 (*Lemna*), https://doi.org/10.15468/dl.tqazwm (*Spirodela*), https://doi.org/10.15468/dl.cmkp53 (*Landoltia*), https://doi.org/10.15468/dl.wxhh5g (*Wolffiella*), https://doi.org/10.15468/dl.shuzby (*Wolffia*) |
 | Public genomes | Lemna Genome Hub (Sp 9509-REF-OXFORD-3.0, Wa 8730-REF-CSHL-1.0, Lg 7742a-REF-CSHL-1.0); CNGBdb CNP0001082 (*C. esculenta*); TAIR Araport11 |
 
